@@ -1,0 +1,223 @@
+   Iframes
+            Media Queries
+            
+        Archive page
+            Timeline
+            
+        Author page
+    
+    Sidebar
+        Timeline module
+        Quote module
+        Singles module
+        News module
+        Photos module
+        Media Queries
+        
+    Footer
+        Navigation
+        About
+        Copyright
+        Media Queries
+        
+    Banners
+        Banners
+        Media Queries</pre>
+		    
+		    
+		    <h3>Style.css - Table Of Content</h3>
+		    <pre class="prettyprint linenums">/* ==========================================================================
+   Table of Content
+   ==========================================================================
+   
+    Header
+        News
+        Sports
+        Lifestyle
+        Showtime
+        Tech
+        Business
+        Extra
+        
+    Content
+        Articles
+            News
+            Sports
+            Lifestyle
+            Showtime
+            Tech
+            Business
+        
+        Reviews
+        Archive
+        Buttons
+    
+    Sidebar
+    Footer</pre>
+		    
+		    
+		    
+		</div>
+		
+		
+		<!-- start: overview -->
+		<div class="bs-docs-section">
+		    
+		    <h1 id="fonts" class="page-header">Fonts</h1>
+		    <p>Weekly News uses <code>Roboto</code>, <code>Roboto Condensed</code> and <code>Roboto Slab</code> fonts from google fonts. The fonts are imported in Page Head.</p>
+		    
+		    <pre class="prettyprint linenums">&lt;!-- start:web fonts --&gt;
+&lt;link href='http://fonts.googleapis.com/css?family=Roboto:400,500,500italic,400italic,700,700italic|Roboto+Condensed:400,700|Roboto+Slab' rel='stylesheet' type='text/css'&gt;
+&lt;!-- end:web fonts --&gt;</pre>
+		    
+		</div>
+		
+		<!-- start: overview -->
+		<div class="bs-docs-section">
+		    
+		    <h1 id="main-navigation" class="page-header">Main Navigation</h1>
+		    <p>Main Navigation enables an easy access to most frequently accessed information and pages.</p>
+		    
+		    <pre class="prettyprint linenums">&lt;!-- start:header-navigation --&gt;
+&lt;div id=&quot;header-navigation&quot;&gt;
+
+    &lt;!-- start:container --&gt;
+    &lt;div class=&quot;container&quot;&gt;
+        
+        &lt;!-- start:menu --&gt;
+        &lt;nav id=&quot;menu&quot;&gt;
+        &lt;/nav&gt;
+        &lt;!-- end:menu --&gt;
+        
+    &lt;/div&gt;
+    &lt;!-- end:container --&gt;
+    
+&lt;/div&gt;
+&lt;!-- end:header-navigation --&gt;      </pre>
+		    
+		</div>
+		
+		<!-- start: overview -->
+		<div class="bs-docs-section">
+		    
+		    <h1 id="js-init" class="page-header">Javascript Initialization</h1>
+		    <p>Core javascript initialization implemented in <code>assets/js/functions.js</code> as shown below.</p>
+		    
+		    <pre class="prettyprint linenums">jQuery( document ).ready(function( $ ) {
+
+    // Navigation Menu Expander
+    $('#nav-expander').sidr({
+        side: 'right'
+    });
+    
+    $('#sidr li a.more').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('ul').toggle();
+    });
+    
+    // Subnav article loader
+    $('#menu .subnav-menu li').hover(function() {
+        $(this).parent().find('li').removeClass('current');
+        $(this).addClass('current');
+    });
+    
+    // Homepage slider
+    $('#slider-carousel').carouFredSel({
+        width: '100%',
+        height: 'auto',
+        prev: '#slider-prev',
+        next: '#slider-next',
+        auto: false,
+        responsive: true,
+        transition: true,
+        swipe: {
+                onMouse: true,
+                onTouch: true
+        },
+        scroll : {
+            items           : 1,
+            easing          : &quot;quadratic&quot;,
+            duration        : 1000,                         
+            pauseOnHover    : true
+        }      
+    });
+    
+    // Init photobox
+    $('#weekly-gallery').photobox('a',{ time:0 });
+    $('#article-gallery').photobox('a',{ time:0 });
+    
+    // Init datepicker for archive page
+    $('#archive-date-picker').datepicker({
+        format: 'mm/dd/yyyy'
+    });
+    
+    //Click event to scroll to top
+    $('.scrollToTop').click(function(){
+        $('html, body').animate({scrollTop : 0},800);
+        return false;
+    });
+    
+    //Contact form 
+    var contactForm = $('#contactForm');
+    var successForm = $('.alert-success', contactForm);
+    var errorForm = $('.alert-danger', contactForm);
+    
+    $("#contactForm").validate({
+        submitHandler: function (form) {
+            successForm.removeClass('hide').show();
+            errorForm.hide();            
+        }
+    });
+    
+});</pre>
+		    
+		</div>
+		
+		<!-- start: overview -->
+		<div class="bs-docs-section">
+		    
+		    <h1 id="references" class="page-header">References</h1>
+		    <p>Below is the list of all plugins and external resources used to power this template. </p>
+		    
+		    <table class="table table-bordered table-striped">
+			<thead>
+			  <tr>
+			    <th>Name</th>
+			    <th>Description</th>
+			    <th>URL</th>
+			  </tr>
+			</thead>
+			<tbody>
+			  <tr>
+			    <td>jQuery 1.10.1</td>
+			    <td>Core Javascript library</td>
+			    <td><a href="http://www.jquery.com" target="_blank">http://www.jquery.com</a></td>
+			  </tr>
+			  <tr>
+			    <td>Bootstrap v3.1.1</td>
+			    <td>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.</td>
+			    <td><a href="http://getbootstrap.com/" target="_blank">http://getbootstrap.com/</a></td>
+			  </tr>
+			  <tr>
+			    <td>carouFredSel</td>
+			    <td>carouFredSel is quite simply the most powerful and flexible way to add carousels to your website.</td>
+			    <td><a href="http://dev7studios.com/plugins/caroufredsel" target="_blank">http://dev7studios.com/plugins/caroufredsel</a></td>
+			  </tr>
+			  <tr>
+			    <td>Sidr</td>
+			    <td>Sidr is a jQuery plugin for creating side menus and the easiest way for doing your menu responsive.</td>
+			    <td><a href="http://www.berriart.com/sidr" target="_blank">http://www.berriart.com/sidr</a></td>
+			  </tr>
+			  <tr>
+			    <td>Photobox</td>
+			    <td>CSS3 jQuery image gallery.</td>
+			    <td><a href="http://dropthebit.com/500/photobox-css3-image-gallery-jquery-plugin/" target="_blank">http://dropthebit.com/</a></td>
+			  </tr>
+			   <tr>
+			    <td>Datepicker</td>
+			    <td>Datepicker for Bootstrap.</td>
+			    <td><a href="http://www.eyecon.ro/bootstrap-datepicker/" target="_blank">http://www.eyecon.ro/bootstrap-datepicker/</a></td>
+			  </tr>
+			  <tr>
+			    <td>Font Awesome</td>
+			    <td>The iconi

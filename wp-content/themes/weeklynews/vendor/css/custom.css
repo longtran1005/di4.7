@@ -1,0 +1,191 @@
+.article-detail h1 {
+    font-weight: bold;
+}
+
+.article-detail .preambula img {
+    width: 100%;
+    height: auto;
+}
+
+.article-detail .figcaption {
+    display: block;
+    margin-top: 5px;
+}
+
+.authorzone img {
+    max-width: 100%;
+}
+
+.navbar-brand .logo-mobile {
+    width: 25px;
+}
+
+#sidebar-mid {
+    background-color: transparent !important;
+}
+
+@media screen and (min-width:1280px) {
+    .container.stockwatch .fh-bigcap {
+        width: 100%;
+        min-height: 140px;
+        float: left;
+        padding: 0
+    }
+    
+    .container .section {
+        width: 560px;
+    }
+    
+    .container .aside {
+        width: 230px;
+    }
+        
+    .bigfoto img {
+        width: 100%;
+        height: auto;
+    }    
+}
+
+@media (min-width: 768px) {
+    .navbar-brand {
+        display: none;
+    }
+    
+    .bigfoto img {
+        width: 100%;
+        height: auto;
+    }        
+}
+
+@media screen and (max-width:767px) {
+    .scroll-area > .container {
+        margin-top: 0; 
+    }
+    
+    .navbar-default {
+        background-color: #a7100c !important;
+    }
+    
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: white !important;
+    }
+    
+    .navbar-header {
+        width: 100%;
+    }
+    
+    .navbar-toggle {
+        margin-right: 0 !important;
+    }
+    
+    .navbar-collapse {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
+    .navbar-brand {
+        font-size: 28px;
+        margin-left: 15px;
+        color: white !important;
+    }
+    
+    .navbar-default .container{
+        margin: 0 auto;
+        padding: 0;
+    }
+    
+    .spteaser .headline-normal, .spteaser .headline-big, .spteaser .headline-biggest {
+        letter-spacing: 0 !important;
+    }
+    
+    #menu-main-menu {
+        margin-bottom: 0;
+    }
+    
+    .main-menu-item {
+        padding: 6px 0;
+        font-weight: bold;
+        border-bottom: 1px solid grey;
+    }
+    
+    .main-menu-item:first-child {
+        padding-top: 12px;
+    }
+    
+    .main-menu-item:last-child {
+        padding-bottom: 12px;
+        border-bottom: none;
+    }    
+    
+    .main-menu-item a {
+        color: white;
+    }
+    
+    #navbar {
+        padding: 0;
+    }
+    
+    
+    .header-page-body {
+        display: none;    
+    }
+    
+    .bigfoto img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .headline-normal {
+        font-size: 30px !important;
+        line-height: 36px !important;
+    }
+    
+    .headline-big {
+        font-size: 33px !important;
+        line-height: 39.6px !important;
+    }
+    
+    .headline-biggest {
+        font-size: 36px !important;
+        line-height: 43.2px !important;
+    }    
+}
+
+@media (min-width: 480px) and (max-width: 639px) {
+    .imgright .gate img ,.imgleft .gate img{
+        height: 120px;
+        width: 210px;
+    }
+    
+    .bigfoto img {
+        width: 100% !important; ;
+        height: auto !important;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .headline-normal {
+        font-size: 22px !important;
+        line-height: 23px !important;
+    }
+    
+    .headline-big {
+        font-size: 24px !important;
+        line-height: 25px !important;
+    }
+    
+    .headline-biggest {
+        font-size: 26px !important;
+        line-height: 27px !important;
+    }    
+    
+    .imgright .gate img,.imgleft .gate img {
+        height: 100px;
+        width: 160px;
+    }
+    
+    .bigfoto img {
+        width: 100% !important;
+        height: auto !important;
+    }
+}

@@ -1,0 +1,9 @@
+.admin-color-fresh #redux-header {
+    background: #444;
+    border-color: #999;
+}
+
+.redux-container #redux-header .display_header {
+    margin-top: 0;
+    margin-bottom: 0;
+}

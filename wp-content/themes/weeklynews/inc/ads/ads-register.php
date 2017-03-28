@@ -1,0 +1,47 @@
+<?php
+function MipTheme_Register_Adsystem_Post_Type(){
+    register_post_type('mp_ads', array(
+        'labels' => array(
+            'name' => __('My Ads',THEMENAME ),
+            'singular_name' => __('Ad', THEMENAME ),
+            'add_new' => __('Add New',THEMENAME ),
+            'add_new_item' => __('Add New ad', THEMENAME ),
+            'edit_item' => __('Edit ad', THEMENAME ),
+            'new_item' => __('New ad', THEMENAME ),
+            'view_item' => __('View ad', THEMENAME ),
+            'search_items' => __('Search in ads', THEMENAME ),
+            'not_found' =>  __('No ads found', THEMENAME ),
+            'not_found_in_trash' => __('No ads found in Trash', THEMENAME ), 
+            'parent_item_colon' => '',
+            'menu_name' => __('Ads System', THEMENAME ),
+        ),
+        'singular_label' => __('ads', THEMENAME ),
+        'public' => true,
+        'publicly_queryable' => true,
+        'exclude_from_search' => false,
+        'show_ui' => true,
+        'show_in_menu' => true,
+        'show_in_admin_bar' => false,
+        'menu_position' => 100,
+        'capability_type' => 'post',
+        'capabilities' => array(
+            'publish_posts' => 'moderate_comments',
+            'edit_posts' => 'moderate_comments',
+            'edit_others_posts' => 'moderate_comments',
+            'delete_posts' => 'moderate_comments',
+            'delete_others_posts' => 'moderate_comments',
+            'read_private_posts' => 'moderate_comments',
+            'edit_post' => 'moderate_comments',
+            'delete_post' => 'moderate_comments',
+            'read_post' => 'moderate_comments',
+        ),
+        'hierarchical' => false,
+        'supports' => array('title'),
+        'has_archive' => false,
+        'rewrite' => array( 'slug' => 'ad', 'with_front' => true, 'pages' => true, 'feeds'=>false ),
+        'query_var' => false,
+        'can_export' => true,
+        'show_in_nav_menus' => false,
+        'menu_icon' => 'dashicons-schedule'
+    ));
+}

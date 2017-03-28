@@ -1,0 +1,3828 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeeklyNews\n"
+"POT-Creation-Date: 2015-05-13 20:46+0100\n"
+"PO-Revision-Date: 2015-05-13 20:47+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:47
+msgid "404"
+msgstr ""
+
+#: 404.php:48
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:49
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+
+#: BFI_Thumb.php:145
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: BFI_Thumb.php:273
+msgid "Image rotate failed."
+msgstr ""
+
+#: BFI_Thumb.php:296
+msgid "Image opacity change failed."
+msgstr ""
+
+#: BFI_Thumb.php:383
+msgid "Image color change failed."
+msgstr ""
+
+#: BFI_Thumb.php:400
+msgid "Image grayscale failed."
+msgstr ""
+
+#: BFI_Thumb.php:417
+msgid "Image negate failed."
+msgstr ""
+
+#: attachment.php:81 loop-single.php:30 loop.php:24
+msgid "No posts."
+msgstr ""
+
+#: author.php:59 elements/authorteampage-1.php:27
+#: elements/authorteampage-2.php:27
+msgid "posts"
+msgstr ""
+
+#: author.php:64 elements/authorteampage-1.php:32
+#: elements/authorteampage-2.php:32 elements/parts/post-cover-parallax.php:50
+#: elements/parts/post-cover-parallax.php:54 elements/parts/post-cover.php:109
+#: elements/parts/post-cover.php:113 elements/parts/post-header-title.php:28
+#: elements/parts/post-header-title.php:32 inc/class-article.php:579
+msgid "comments"
+msgstr ""
+
+#: author.php:79 elements/authorteampage-1.php:47
+#: elements/authorteampage-2.php:47
+msgid "views"
+msgstr ""
+
+#: bbpress/form-search.php:12
+msgid "Search the forum"
+msgstr ""
+
+#: bbpress/pagination-replies.php:11 bbpress/pagination-topics.php:11
+#: elements/parts/post-pagination-2.php:6
+msgid "Next page <i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: bbpress/pagination-replies.php:12 bbpress/pagination-topics.php:12
+#: elements/parts/post-pagination-2.php:7
+msgid "<i class=\"fa fa-chevron-left\"></i> Previous page"
+msgstr ""
+
+#: comments.php:22
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:60
+msgid "Name:"
+msgstr ""
+
+#: comments.php:65
+msgid "Email:"
+msgstr ""
+
+#: comments.php:70
+msgid "Website:"
+msgstr ""
+
+#: comments.php:81
+msgid "Comment:"
+msgstr ""
+
+#: comments.php:87
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:88
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:89
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:115
+msgid "at"
+msgstr ""
+
+#: comments.php:120
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: comments.php:121
+msgid "Log in to leave a comment <span>&darr;</span>"
+msgstr ""
+
+#: elements/facebook-comments.php:5
+msgid "Facebook Comments"
+msgstr ""
+
+#: elements/header-navigation.php:12 elements/parts/header-layout-1.php:21
+#: elements/parts/header-layout-2.php:21
+#: elements/parts/search-advanced.php:137 searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: elements/loop-cat-7.php:51 inc/class-article.php:582
+msgid "Read more"
+msgstr ""
+
+#: elements/parts/archive-timeline.php:8
+msgid "News archive"
+msgstr ""
+
+#: elements/parts/post-author-box.php:17 elements/parts/post-author-box.php:19
+msgid "Via"
+msgstr ""
+
+#: elements/parts/post-author-box.php:24 elements/parts/post-author-box.php:26
+#: inc/external/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: elements/parts/post-author-box.php:43 inc/redux-options.php:4297
+msgid "Tags"
+msgstr ""
+
+#: elements/parts/post-author-box.php:85
+msgid "Next article"
+msgstr ""
+
+#: elements/parts/post-author-box.php:91
+msgid "Previous article"
+msgstr ""
+
+#: elements/parts/post-cover-parallax.php:40 elements/parts/post-cover.php:99
+#: elements/parts/post-header-title.php:18 inc/class-article.php:548
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: elements/parts/post-pagination-1.php:33
+msgid "Go to first page"
+msgstr ""
+
+#: elements/parts/post-pagination-1.php:34
+msgid "Previous page"
+msgstr ""
+
+#: elements/parts/post-pagination-1.php:44
+msgid "Next page"
+msgstr ""
+
+#: elements/parts/post-pagination-1.php:45
+msgid "Go to last page"
+msgstr ""
+
+#: elements/parts/post-review.php:51 inc/class-shortcodes.php:51
+msgid "The Good"
+msgstr ""
+
+#: elements/parts/post-review.php:55 inc/class-shortcodes.php:55
+msgid "The Bad"
+msgstr ""
+
+#: elements/parts/search-advanced.php:29
+msgid "January"
+msgstr ""
+
+#: elements/parts/search-advanced.php:30
+msgid "February"
+msgstr ""
+
+#: elements/parts/search-advanced.php:31
+msgid "March"
+msgstr ""
+
+#: elements/parts/search-advanced.php:32
+msgid "April"
+msgstr ""
+
+#: elements/parts/search-advanced.php:33
+msgid "May"
+msgstr ""
+
+#: elements/parts/search-advanced.php:34
+msgid "June"
+msgstr ""
+
+#: elements/parts/search-advanced.php:35
+msgid "July"
+msgstr ""
+
+#: elements/parts/search-advanced.php:36
+msgid "August"
+msgstr ""
+
+#: elements/parts/search-advanced.php:37
+msgid "September"
+msgstr ""
+
+#: elements/parts/search-advanced.php:38
+msgid "October"
+msgstr ""
+
+#: elements/parts/search-advanced.php:39
+msgid "November"
+msgstr ""
+
+#: elements/parts/search-advanced.php:40
+msgid "December"
+msgstr ""
+
+#: elements/parts/search-advanced.php:76 elements/parts/search-basic.php:19
+#, php-format
+msgid "Search Results for: <span>%s</span>"
+msgstr ""
+
+#: elements/parts/search-advanced.php:83
+msgid "Search terms"
+msgstr ""
+
+#: elements/parts/search-advanced.php:84
+msgid "Enter Search terms"
+msgstr ""
+
+#: elements/parts/search-advanced.php:87 inc/class-widgets.php:1580
+msgid "Category"
+msgstr ""
+
+#: elements/parts/search-advanced.php:89
+#: elements/parts/search-advanced.php:119
+msgid "All"
+msgstr ""
+
+#: elements/parts/search-advanced.php:98
+msgid "Date"
+msgstr ""
+
+#: elements/parts/search-advanced.php:117
+msgid "Filter by"
+msgstr ""
+
+#: elements/parts/search-advanced.php:128
+msgid "Sort by"
+msgstr ""
+
+#: elements/parts/search-advanced.php:130 inc/extend-menus.php:393
+msgid "Descending"
+msgstr ""
+
+#: elements/parts/search-advanced.php:131
+msgid "Ascending"
+msgstr ""
+
+#: footer.php:33
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:135
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:136
+msgid "Header Menu (Primary Navigation)"
+msgstr ""
+
+#: functions.php:137
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:149
+msgid "Primary Widget Area"
+msgstr ""
+
+#: functions.php:150
+msgid "The Primary widget area (Main Sidebar)"
+msgstr ""
+
+#: functions.php:162
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: functions.php:163
+msgid "The Secondary widget area (Mid Sidebar)"
+msgstr ""
+
+#: inc/ads/ads-register.php:5
+msgid "My Ads"
+msgstr ""
+
+#: inc/ads/ads-register.php:6
+msgid "Ad"
+msgstr ""
+
+#: inc/ads/ads-register.php:7
+msgid "Add New"
+msgstr ""
+
+#: inc/ads/ads-register.php:8
+msgid "Add New ad"
+msgstr ""
+
+#: inc/ads/ads-register.php:9
+msgid "Edit ad"
+msgstr ""
+
+#: inc/ads/ads-register.php:10
+msgid "New ad"
+msgstr ""
+
+#: inc/ads/ads-register.php:11
+msgid "View ad"
+msgstr ""
+
+#: inc/ads/ads-register.php:12
+msgid "Search in ads"
+msgstr ""
+
+#: inc/ads/ads-register.php:13
+msgid "No ads found"
+msgstr ""
+
+#: inc/ads/ads-register.php:14
+msgid "No ads found in Trash"
+msgstr ""
+
+#: inc/ads/ads-register.php:16 inc/redux-metaboxes.php:938
+#: inc/redux-metaboxes.php:1292 inc/redux-options.php:3898
+msgid "Ads System"
+msgstr ""
+
+#: inc/ads/ads-register.php:18
+msgid "ads"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs-plus.php:51
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs-plus.php:181
+#: inc/breadcrumbs/breadcrumbs-plus.php:184
+#: inc/breadcrumbs/breadcrumbs-plus.php:187
+msgid "Archives for "
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs-plus.php:191
+msgid "Archives by: "
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs-plus.php:196
+msgid "Search results for \""
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs-plus.php:200
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs-plus.php:244
+msgid "Split"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs-plus.php:247
+msgid "Merge"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs-plus.php:250
+#: inc/breadcrumbs/breadcrumbs-plus.php:264
+#: inc/breadcrumbs/breadcrumbs-plus.php:284
+msgid "Edit"
+msgstr ""
+
+#: inc/class-article.php:86
+msgid "Add To Cart"
+msgstr ""
+
+#: inc/class-article.php:576
+msgid "By"
+msgstr ""
+
+#: inc/class-article.php:578
+msgid "In"
+msgstr ""
+
+#: inc/class-global.php:50 inc/class-util.php:71 inc/class-util.php:114
+#: inc/class-util.php:154
+msgid "Register"
+msgstr ""
+
+#: inc/class-global.php:53 inc/class-util.php:75 inc/class-util.php:118
+#: inc/class-util.php:157
+msgid "My Posts"
+msgstr ""
+
+#: inc/class-global.php:59 inc/class-util.php:69 inc/class-util.php:127
+#: inc/class-util.php:163 inc/class-util.php:231
+msgid "Log in"
+msgstr ""
+
+#: inc/class-global.php:61 inc/class-util.php:74 inc/class-util.php:129
+#: inc/class-util.php:165 inc/class-util.php:233
+msgid "Log out"
+msgstr ""
+
+#: inc/class-util.php:80
+msgid "Follow"
+msgstr ""
+
+#: inc/class-widgets.php:17
+msgid "WeeklyNews[Image]"
+msgstr ""
+
+#: inc/class-widgets.php:18
+msgid "Display image"
+msgstr ""
+
+#: inc/class-widgets.php:51 inc/class-widgets.php:123
+msgid "Image source:"
+msgstr ""
+
+#: inc/class-widgets.php:55
+msgid "Image Retina source:"
+msgstr ""
+
+#: inc/class-widgets.php:59 inc/class-widgets.php:127
+msgid "Image link:"
+msgstr ""
+
+#: inc/class-widgets.php:63
+msgid "Image padding: (optional)"
+msgstr ""
+
+#: inc/class-widgets.php:67 inc/class-widgets.php:130
+msgid "Open in new window"
+msgstr ""
+
+#: inc/class-widgets.php:68
+msgid "Responsive image"
+msgstr ""
+
+#: inc/class-widgets.php:97
+msgid "WeeklyNews[Image Ad]"
+msgstr ""
+
+#: inc/class-widgets.php:98 inc/class-widgets.php:158
+msgid "Display ads - max 300px"
+msgstr ""
+
+#: inc/class-widgets.php:131
+msgid "Show with background color"
+msgstr ""
+
+#: inc/class-widgets.php:157
+msgid "WeeklyNews[Embed Ad]"
+msgstr ""
+
+#: inc/class-widgets.php:177 inc/class-widgets.php:225
+msgid "Ad source:"
+msgstr ""
+
+#: inc/class-widgets.php:180 inc/class-widgets.php:238
+msgid "show with background color"
+msgstr ""
+
+#: inc/class-widgets.php:204
+msgid "WeeklyNews[Ads System]"
+msgstr ""
+
+#: inc/class-widgets.php:205
+msgid "Display ads from Ads System"
+msgstr ""
+
+#: inc/class-widgets.php:262
+msgid "WeeklyNews[Quote]"
+msgstr ""
+
+#: inc/class-widgets.php:263
+msgid "Display quote with author and source"
+msgstr ""
+
+#: inc/class-widgets.php:288
+msgid "Weekly Quote"
+msgstr ""
+
+#: inc/class-widgets.php:294 inc/class-widgets.php:518
+#: inc/class-widgets.php:712 inc/class-widgets.php:892
+#: inc/class-widgets.php:1033 inc/class-widgets.php:1266
+#: inc/class-widgets.php:1354 inc/class-widgets.php:1574
+#: inc/class-widgets.php:1667
+msgid "Title:"
+msgstr ""
+
+#: inc/class-widgets.php:298
+msgid "Quote:"
+msgstr ""
+
+#: inc/class-widgets.php:301
+msgid "Source:"
+msgstr ""
+
+#: inc/class-widgets.php:306 inc/class-widgets.php:902
+msgid "No spacing after this widget"
+msgstr ""
+
+#: inc/class-widgets.php:330
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: inc/class-widgets.php:331
+msgid "WeeklyNews[Recent Posts]"
+msgstr ""
+
+#: inc/class-widgets.php:344
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/class-widgets.php:429 inc/class-widgets.php:431
+msgid "in"
+msgstr ""
+
+#: inc/class-widgets.php:521
+msgid "Include categories (separate ID by commas):"
+msgstr ""
+
+#: inc/class-widgets.php:524
+msgid "Exclude categories (separate ID by commas):"
+msgstr ""
+
+#: inc/class-widgets.php:528 inc/class-widgets.php:716
+msgid "Display category as:"
+msgstr ""
+
+#: inc/class-widgets.php:530 inc/class-widgets.php:718
+msgid "Root Category"
+msgstr ""
+
+#: inc/class-widgets.php:531 inc/class-widgets.php:719
+msgid "Subcategories"
+msgstr ""
+
+#: inc/class-widgets.php:537 inc/class-widgets.php:1587
+#: inc/vc/vc-template-block-1.php:130 inc/vc/vc-template-block-10.php:121
+#: inc/vc/vc-template-block-11.php:121 inc/vc/vc-template-block-12.php:153
+#: inc/vc/vc-template-block-2.php:121 inc/vc/vc-template-block-3.php:121
+#: inc/vc/vc-template-block-4.php:121 inc/vc/vc-template-block-5.php:121
+#: inc/vc/vc-template-block-6.php:121 inc/vc/vc-template-block-7.php:78
+#: inc/vc/vc-template-block-8.php:121 inc/vc/vc-template-block-9.php:121
+#: inc/vc/vc-template-wc-block-1.php:132 inc/vc/vc-template-wc-block-2.php:119
+#: inc/vc/vc-template-wc-block-3.php:119
+msgid "Sort order:"
+msgstr ""
+
+#: inc/class-widgets.php:539 inc/class-widgets.php:1589
+msgid "Latest"
+msgstr ""
+
+#: inc/class-widgets.php:540 inc/class-widgets.php:1590
+msgid "Random posts"
+msgstr ""
+
+#: inc/class-widgets.php:541 inc/class-widgets.php:1591
+msgid "By name"
+msgstr ""
+
+#: inc/class-widgets.php:542 inc/class-widgets.php:1592
+msgid "Last Modified"
+msgstr ""
+
+#: inc/class-widgets.php:543 inc/class-widgets.php:1593
+msgid "Most Commented"
+msgstr ""
+
+#: inc/class-widgets.php:544 inc/class-widgets.php:1594
+msgid "Most Viewed"
+msgstr ""
+
+#: inc/class-widgets.php:549 inc/class-widgets.php:724
+#: inc/class-widgets.php:895 inc/class-widgets.php:1284
+#: inc/class-widgets.php:1599
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/class-widgets.php:552 inc/class-widgets.php:727
+#: inc/class-widgets.php:898 inc/class-widgets.php:1287
+#: inc/class-widgets.php:1602
+msgid "Post offset:"
+msgstr ""
+
+#: inc/class-widgets.php:556 inc/class-widgets.php:1291
+#: inc/class-widgets.php:1606
+msgid "Display post date?"
+msgstr ""
+
+#: inc/class-widgets.php:559 inc/class-widgets.php:1294
+#: inc/class-widgets.php:1609
+msgid "Display category?"
+msgstr ""
+
+#: inc/class-widgets.php:562 inc/class-widgets.php:1297
+#: inc/class-widgets.php:1612
+msgid "Style it for mid column?"
+msgstr ""
+
+#: inc/class-widgets.php:575
+msgid "Your site&#8217;s most recent Posts in timeline."
+msgstr ""
+
+#: inc/class-widgets.php:576
+msgid "WeeklyNews[Timeline]"
+msgstr ""
+
+#: inc/class-widgets.php:606
+msgid "Timeline"
+msgstr ""
+
+#: inc/class-widgets.php:731
+msgid "Select categories to include in your timeline:"
+msgstr ""
+
+#: inc/class-widgets.php:768 inc/class-widgets.php:918
+msgid "Your site&#8217;s most recent Audio Posts."
+msgstr ""
+
+#: inc/class-widgets.php:769
+msgid "WeeklyNews[Audio Posts]"
+msgstr ""
+
+#: inc/class-widgets.php:799
+msgid "Audio Posts"
+msgstr ""
+
+#: inc/class-widgets.php:919
+msgid "WeeklyNews[Gallery]"
+msgstr ""
+
+#: inc/class-widgets.php:957
+msgid "Gallery Thumbs"
+msgstr ""
+
+#: inc/class-widgets.php:1036
+msgid "Images:"
+msgstr ""
+
+#: inc/class-widgets.php:1054
+msgid "Choose Images"
+msgstr ""
+
+#: inc/class-widgets.php:1110
+msgid "Your site&#8217;s lates reviews."
+msgstr ""
+
+#: inc/class-widgets.php:1111
+msgid "WeeklyNews[Reviews]"
+msgstr ""
+
+#: inc/class-widgets.php:1125
+msgid "Latest Reviews"
+msgstr ""
+
+#: inc/class-widgets.php:1269
+msgid "Include categories (separate by commas):"
+msgstr ""
+
+#: inc/class-widgets.php:1272
+msgid "Exclude categories (separate by commas):"
+msgstr ""
+
+#: inc/class-widgets.php:1276
+msgid "Sort reviews by:"
+msgstr ""
+
+#: inc/class-widgets.php:1278
+msgid "Best Score Reviews"
+msgstr ""
+
+#: inc/class-widgets.php:1279
+msgid "Latest reviews"
+msgstr ""
+
+#: inc/class-widgets.php:1313
+msgid "WeeklyNews[About]"
+msgstr ""
+
+#: inc/class-widgets.php:1314
+msgid "Display text with social share buttons"
+msgstr ""
+
+#: inc/class-widgets.php:1344
+msgid "About us..."
+msgstr ""
+
+#: inc/class-widgets.php:1358
+msgid "Text:"
+msgstr ""
+
+#: inc/class-widgets.php:1362
+msgid "Facebook Link:"
+msgstr ""
+
+#: inc/class-widgets.php:1365
+msgid "Twitter Link:"
+msgstr ""
+
+#: inc/class-widgets.php:1368
+msgid "LinkedIn Link:"
+msgstr ""
+
+#: inc/class-widgets.php:1371
+msgid "Google+ Link:"
+msgstr ""
+
+#: inc/class-widgets.php:1374
+msgid "Vimeo Link:"
+msgstr ""
+
+#: inc/class-widgets.php:1377
+msgid "Youtube Link:"
+msgstr ""
+
+#: inc/class-widgets.php:1407
+msgid "Your site&#8217;s related Posts."
+msgstr ""
+
+#: inc/class-widgets.php:1408
+msgid "WeeklyNews[Related Posts]"
+msgstr ""
+
+#: inc/class-widgets.php:1423 inc/redux-options.php:1577
+msgid "Related Posts"
+msgstr ""
+
+#: inc/class-widgets.php:1578
+msgid "Filter related posts by:"
+msgstr ""
+
+#: inc/class-widgets.php:1581
+msgid "Tag"
+msgstr ""
+
+#: inc/class-widgets.php:1627
+msgid "WeeklyNews[Tags]"
+msgstr ""
+
+#: inc/class-widgets.php:1628
+msgid "Display tags"
+msgstr ""
+
+#: inc/class-widgets.php:1662
+msgid "Weekly Tags"
+msgstr ""
+
+#: inc/class-widgets.php:1671
+msgid "Display post count?"
+msgstr ""
+
+#: inc/class-widgets.php:1673
+msgid "Number of tags to show:"
+msgstr ""
+
+#: inc/extend-category.php:22
+msgid "Category Primary Color"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: inc/extend-menus.php:208
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: inc/extend-menus.php:212
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/extend-menus.php:236
+msgid "Move up"
+msgstr ""
+
+#: inc/extend-menus.php:249
+msgid "Move down"
+msgstr ""
+
+#: inc/extend-menus.php:251 inc/extend-menus.php:253
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/extend-menus.php:262
+msgid "URL"
+msgstr ""
+
+#: inc/extend-menus.php:269
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/extend-menus.php:275
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/extend-menus.php:282
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/extend-menus.php:287
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/extend-menus.php:293
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/extend-menus.php:299
+msgid "Description"
+msgstr ""
+
+#: inc/extend-menus.php:301
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/extend-menus.php:313
+msgid "Dropdown Type"
+msgstr ""
+
+#: inc/extend-menus.php:315
+msgid "Default Menu"
+msgstr ""
+
+#: inc/extend-menus.php:316
+msgid "Category Mega Menu"
+msgstr ""
+
+#: inc/extend-menus.php:324
+msgid "Show megamenu with latest posts"
+msgstr ""
+
+#: inc/extend-menus.php:330
+msgid "Menu Item Color"
+msgstr ""
+
+#: inc/extend-menus.php:332
+msgid "Use this only on pages and custom links."
+msgstr ""
+
+#: inc/extend-menus.php:344
+msgid "Articles Display"
+msgstr ""
+
+#: inc/extend-menus.php:346
+msgid "---"
+msgstr ""
+
+#: inc/extend-menus.php:347
+msgid "Default Articles (if this is a category)"
+msgstr ""
+
+#: inc/extend-menus.php:348
+msgid "Custom Articles"
+msgstr ""
+
+#: inc/extend-menus.php:349
+msgid "Review Articles Only"
+msgstr ""
+
+#: inc/extend-menus.php:351
+msgid "Use only if parent is selected as \"Category Mega Menu\""
+msgstr ""
+
+#: inc/extend-menus.php:357 inc/vc/vc-template-wc-block-1.php:80
+#: inc/vc/vc-template-wc-block-2.php:80 inc/vc/vc-template-wc-block-3.php:80
+msgid "Category filter"
+msgstr ""
+
+#: inc/extend-menus.php:364 inc/redux-metaboxes.php:1252
+#: inc/redux-options.php:381 inc/redux-options.php:3175
+msgid "Filter by tag slug"
+msgstr ""
+
+#: inc/extend-menus.php:371
+msgid "Offset"
+msgstr ""
+
+#: inc/extend-menus.php:378
+msgid "Order by"
+msgstr ""
+
+#: inc/extend-menus.php:380
+msgid "Published Date"
+msgstr ""
+
+#: inc/extend-menus.php:381
+msgid "Post ID"
+msgstr ""
+
+#: inc/extend-menus.php:382
+msgid "Random order"
+msgstr ""
+
+#: inc/extend-menus.php:383
+msgid "Last modified date"
+msgstr ""
+
+#: inc/extend-menus.php:384
+msgid "Number of comments"
+msgstr ""
+
+#: inc/extend-menus.php:391 inc/redux-metaboxes.php:211
+#: inc/redux-metaboxes.php:350 inc/redux-metaboxes.php:449
+#: inc/redux-metaboxes.php:548 inc/redux-metaboxes.php:1203
+#: inc/redux-options.php:332 inc/redux-options.php:1605
+#: inc/redux-options.php:1743 inc/redux-options.php:1837
+#: inc/redux-options.php:1931
+msgid "Sort order"
+msgstr ""
+
+#: inc/extend-menus.php:394
+msgid "Ascending "
+msgstr ""
+
+#: inc/extend-menus.php:408
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/extend-menus.php:421
+msgid "Remove"
+msgstr ""
+
+#: inc/extend-menus.php:422
+msgid "Cancel"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:161
+#: inc/tgm-required-plugin-activation-load.php:64
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:162
+#: inc/tgm-required-plugin-activation-load.php:65
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:163
+#: inc/tgm-required-plugin-activation-load.php:66
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:165
+#: inc/tgm-required-plugin-activation-load.php:68
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:166
+#: inc/tgm-required-plugin-activation-load.php:69
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:167
+#: inc/tgm-required-plugin-activation-load.php:70
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:168
+#: inc/tgm-required-plugin-activation-load.php:71
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:169
+#: inc/tgm-required-plugin-activation-load.php:72
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:170
+#: inc/tgm-required-plugin-activation-load.php:73
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:171
+#: inc/tgm-required-plugin-activation-load.php:74
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:172
+#: inc/tgm-required-plugin-activation-load.php:75
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:173
+#: inc/tgm-required-plugin-activation-load.php:76
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:175
+#: inc/tgm-required-plugin-activation-load.php:78
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:177
+#: inc/external/class-tgm-plugin-activation.php:1956
+#: inc/tgm-required-plugin-activation-load.php:79
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:178
+#: inc/external/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/external/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:532
+#: inc/external/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1167
+#: inc/external/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1170
+#: inc/external/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1288
+#: inc/external/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1312
+#: inc/external/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2070
+#: inc/external/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2070
+#: inc/external/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/external/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/global-functions.php:16
+msgid "Tag Archive for &quot;"
+msgstr ""
+
+#: inc/global-functions.php:22
+msgid " - "
+msgstr ""
+
+#: inc/global-functions.php:26
+msgid "Search for &quot;"
+msgstr ""
+
+#: inc/global-functions.php:33
+msgid "Not Found - "
+msgstr ""
+
+#: inc/importer/extend-importer.php:4 inc/importer/extend-importer.php:38
+msgid "Import Demo Content"
+msgstr ""
+
+#: inc/importer/parsers.php:42 inc/importer/parsers.php:72
+#: inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/importer/parsers.php:84 inc/importer/parsers.php:89
+#: inc/importer/parsers.php:279 inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:134
+#: inc/importer/wordpress-importer.php:143
+#: inc/importer/wordpress-importer.php:194
+#: inc/importer/wordpress-importer.php:198
+#: inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:511
+#: inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: inc/importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: inc/redux-metaboxes.php:26 inc/redux-options.php:1353
+msgid "Posts Settings"
+msgstr ""
+
+#: inc/redux-metaboxes.php:28 inc/redux-metaboxes.php:1015
+msgid "This options overides your global settings."
+msgstr ""
+
+#: inc/redux-metaboxes.php:33 inc/redux-options.php:1359
+msgid "Post layout"
+msgstr ""
+
+#: inc/redux-metaboxes.php:34
+msgid "Select layout for this post."
+msgstr ""
+
+#: inc/redux-metaboxes.php:48 inc/redux-metaboxes.php:1033
+#: inc/redux-options.php:1373 inc/redux-options.php:2360
+msgid "Show full image height"
+msgstr ""
+
+#: inc/redux-metaboxes.php:49 inc/redux-metaboxes.php:1034
+#: inc/redux-options.php:1374 inc/redux-options.php:2361
+msgid "Fit only horizontally"
+msgstr ""
+
+#: inc/redux-metaboxes.php:58 inc/redux-metaboxes.php:1042
+#: inc/redux-options.php:173 inc/redux-options.php:1004
+#: inc/redux-options.php:1217 inc/redux-options.php:1383
+#: inc/redux-options.php:2369 inc/redux-options.php:2421
+#: inc/redux-options.php:2506 inc/redux-options.php:2573
+#: inc/redux-options.php:2727 inc/redux-options.php:2826
+#: inc/redux-options.php:3048 inc/redux-options.php:3090
+msgid "Sidebar position"
+msgstr ""
+
+#: inc/redux-metaboxes.php:59
+msgid "Select main sidebar position for this post."
+msgstr ""
+
+#: inc/redux-metaboxes.php:71 inc/redux-metaboxes.php:1055
+msgid "Select default middle sidebar"
+msgstr ""
+
+#: inc/redux-metaboxes.php:72 inc/redux-metaboxes.php:1056
+#: inc/redux-options.php:186 inc/redux-options.php:1018
+#: inc/redux-options.php:1230 inc/redux-options.php:1396
+#: inc/redux-options.php:2382 inc/redux-options.php:2434
+#: inc/redux-options.php:2519 inc/redux-options.php:2586
+#: inc/redux-options.php:2740 inc/redux-options.php:2839
+#: inc/redux-options.php:3061 inc/redux-options.php:3103
+msgid "Sidebar for middle column"
+msgstr ""
+
+#: inc/redux-metaboxes.php:83 inc/redux-metaboxes.php:1066
+msgid "Select default sidebar"
+msgstr ""
+
+#: inc/redux-metaboxes.php:93
+msgid "Select category label"
+msgstr ""
+
+#: inc/redux-metaboxes.php:103
+msgid "Display Author Information"
+msgstr ""
+
+#: inc/redux-metaboxes.php:113
+msgid "Display Prev/Next Posts"
+msgstr ""
+
+#: inc/redux-metaboxes.php:114 inc/redux-metaboxes.php:234
+#: inc/redux-metaboxes.php:1259 inc/redux-options.php:388
+#: inc/redux-options.php:1424 inc/redux-options.php:1431
+#: inc/redux-options.php:1450 inc/redux-options.php:1457
+#: inc/redux-options.php:1468 inc/redux-options.php:1480
+#: inc/redux-options.php:1501 inc/redux-options.php:1512
+#: inc/redux-options.php:1523 inc/redux-options.php:1553
+#: inc/redux-options.php:1629
+msgid "This option only affects <b>posts</b>."
+msgstr ""
+
+#: inc/redux-metaboxes.php:124
+msgid "Display Via & Source"
+msgstr ""
+
+#: inc/redux-metaboxes.php:130
+msgid "Via name"
+msgstr ""
+
+#: inc/redux-metaboxes.php:136
+msgid "Via URL"
+msgstr ""
+
+#: inc/redux-metaboxes.php:142
+msgid "Source name"
+msgstr ""
+
+#: inc/redux-metaboxes.php:148
+msgid "Source URL"
+msgstr ""
+
+#: inc/redux-metaboxes.php:157
+msgid "Related posts boxes"
+msgstr ""
+
+#: inc/redux-metaboxes.php:158
+msgid "Your selection overrides global theme options"
+msgstr ""
+
+#: inc/redux-metaboxes.php:166 inc/redux-options.php:1546
+msgid "Related posts box at the bottom"
+msgstr ""
+
+#: inc/redux-metaboxes.php:167 inc/redux-options.php:1547
+msgid ""
+"This box will be displayed at bottom of the post, after author box (if "
+"selected)."
+msgstr ""
+
+#: inc/redux-metaboxes.php:172 inc/redux-options.php:1552
+msgid "Display related posts"
+msgstr ""
+
+#: inc/redux-metaboxes.php:181 inc/redux-options.php:1563
+msgid "Filter related posts by"
+msgstr ""
+
+#: inc/redux-metaboxes.php:182 inc/redux-metaboxes.php:305
+#: inc/redux-metaboxes.php:404 inc/redux-metaboxes.php:503
+#: inc/redux-options.php:1564 inc/redux-options.php:1704
+#: inc/redux-options.php:1798 inc/redux-options.php:1892
+msgid "Choose how to filter related posts"
+msgstr ""
+
+#: inc/redux-metaboxes.php:192 inc/redux-options.php:1575
+msgid "Title for related posts"
+msgstr ""
+
+#: inc/redux-metaboxes.php:193
+msgid "Default: \"Related Posts\""
+msgstr ""
+
+#: inc/redux-metaboxes.php:200 inc/redux-metaboxes.php:335
+#: inc/redux-metaboxes.php:434 inc/redux-metaboxes.php:532
+#: inc/redux-options.php:1595 inc/redux-options.php:1730
+#: inc/redux-options.php:1824 inc/redux-options.php:1918
+msgid "Posts offset"
+msgstr ""
+
+#: inc/redux-metaboxes.php:205 inc/redux-metaboxes.php:340
+#: inc/redux-metaboxes.php:439 inc/redux-metaboxes.php:537
+msgid "Number of post to displace or pass over (0 for no offset)"
+msgstr ""
+
+#: inc/redux-metaboxes.php:212 inc/redux-metaboxes.php:351
+#: inc/redux-metaboxes.php:450 inc/redux-metaboxes.php:549
+#: inc/redux-metaboxes.php:1204 inc/redux-options.php:333
+#: inc/redux-options.php:1606 inc/redux-options.php:1744
+#: inc/redux-options.php:1838 inc/redux-options.php:1932
+msgid "Choose how to sort your posts"
+msgstr ""
+
+#: inc/redux-metaboxes.php:227 inc/redux-options.php:1622
+msgid "Related posts box on the side"
+msgstr ""
+
+#: inc/redux-metaboxes.php:228 inc/redux-options.php:1623
+msgid "This box will be displayed after post title."
+msgstr ""
+
+#: inc/redux-metaboxes.php:233 inc/redux-options.php:1628
+msgid "Display related box"
+msgstr ""
+
+#: inc/redux-metaboxes.php:243 inc/redux-options.php:1639
+msgid "Number of sections"
+msgstr ""
+
+#: inc/redux-metaboxes.php:244 inc/redux-options.php:1640
+msgid "Number of sections in related box"
+msgstr ""
+
+#: inc/redux-metaboxes.php:245 inc/redux-options.php:1641
+msgid "How many sections you want to have in related box"
+msgstr ""
+
+#: inc/redux-metaboxes.php:258 inc/redux-options.php:1655
+msgid "Show box on"
+msgstr ""
+
+#: inc/redux-metaboxes.php:259 inc/redux-options.php:1656
+msgid "Where to display related box"
+msgstr ""
+
+#: inc/redux-metaboxes.php:271 inc/redux-options.php:1669
+msgid "First section data"
+msgstr ""
+
+#: inc/redux-metaboxes.php:280 inc/redux-options.php:1678
+msgid "Section title"
+msgstr ""
+
+#: inc/redux-metaboxes.php:289 inc/redux-metaboxes.php:388
+#: inc/redux-metaboxes.php:487 inc/redux-options.php:1687
+#: inc/redux-options.php:1781 inc/redux-options.php:1875
+msgid "Section format"
+msgstr ""
+
+#: inc/redux-metaboxes.php:290 inc/redux-metaboxes.php:389
+#: inc/redux-metaboxes.php:488 inc/redux-options.php:1688
+#: inc/redux-options.php:1782 inc/redux-options.php:1876
+msgid "Choose how to format post layout"
+msgstr ""
+
+#: inc/redux-metaboxes.php:304 inc/redux-metaboxes.php:403
+#: inc/redux-metaboxes.php:502 inc/redux-options.php:1703
+#: inc/redux-options.php:1797 inc/redux-options.php:1891
+msgid "Filter related box by"
+msgstr ""
+
+#: inc/redux-metaboxes.php:320 inc/redux-metaboxes.php:419
+#: inc/redux-metaboxes.php:517 inc/redux-options.php:1718
+#: inc/redux-options.php:1812 inc/redux-options.php:1906
+#: inc/redux-options.php:3181
+msgid "Posts count"
+msgstr ""
+
+#: inc/redux-metaboxes.php:325 inc/redux-metaboxes.php:424
+#: inc/redux-metaboxes.php:522 inc/redux-options.php:1719
+#: inc/redux-options.php:1813 inc/redux-options.php:1907
+msgid "Number of post to show"
+msgstr ""
+
+#: inc/redux-metaboxes.php:370 inc/redux-options.php:1763
+msgid "Second section data"
+msgstr ""
+
+#: inc/redux-metaboxes.php:379 inc/redux-options.php:1772
+msgid "Second Section title"
+msgstr ""
+
+#: inc/redux-metaboxes.php:469 inc/redux-options.php:1857
+msgid "Third section data"
+msgstr ""
+
+#: inc/redux-metaboxes.php:478 inc/redux-options.php:1866
+msgid "Third Section title"
+msgstr ""
+
+#: inc/redux-metaboxes.php:568
+msgid "Review post settings"
+msgstr ""
+
+#: inc/redux-metaboxes.php:574
+msgid "Display review"
+msgstr ""
+
+#: inc/redux-metaboxes.php:584 inc/redux-options.php:1959
+msgid "Review box position"
+msgstr ""
+
+#: inc/redux-metaboxes.php:585 inc/redux-options.php:1960
+msgid ""
+"If you are using custom position then please use <strong>[review]</strong> "
+"shortcode to place the review box in any place within post content"
+msgstr ""
+
+#: inc/redux-metaboxes.php:597 inc/redux-options.php:1971
+msgid "Review style"
+msgstr ""
+
+#: inc/redux-metaboxes.php:609 inc/redux-options.php:1982
+msgid "Review summary type"
+msgstr ""
+
+#: inc/redux-metaboxes.php:610 inc/redux-options.php:1983
+msgid "How to display review summary"
+msgstr ""
+
+#: inc/redux-metaboxes.php:621
+msgid "Review summary"
+msgstr ""
+
+#: inc/redux-metaboxes.php:630
+msgid "Review summary (The Good)"
+msgstr ""
+
+#: inc/redux-metaboxes.php:631 inc/redux-metaboxes.php:641
+msgid "Hit enter for line breaks. It will be replaced with a list."
+msgstr ""
+
+#: inc/redux-metaboxes.php:640
+msgid "Review summary (The Bad)"
+msgstr ""
+
+#: inc/redux-metaboxes.php:650
+msgid "Text appears under the total score"
+msgstr ""
+
+#: inc/redux-metaboxes.php:657 inc/redux-options.php:1994
+msgid "Number of criterias"
+msgstr ""
+
+#: inc/redux-metaboxes.php:658 inc/redux-options.php:1995
+msgid "Size of a review"
+msgstr ""
+
+#: inc/redux-metaboxes.php:659 inc/redux-options.php:1996
+msgid "How many criteria fields you want to have"
+msgstr ""
+
+#: inc/redux-metaboxes.php:677 inc/redux-options.php:2013
+msgid "#1 - Criteria name"
+msgstr ""
+
+#: inc/redux-metaboxes.php:678 inc/redux-metaboxes.php:705
+#: inc/redux-metaboxes.php:732 inc/redux-metaboxes.php:759
+#: inc/redux-metaboxes.php:786 inc/redux-metaboxes.php:813
+#: inc/redux-metaboxes.php:840 inc/redux-metaboxes.php:867
+#: inc/redux-options.php:2014 inc/redux-options.php:2024
+#: inc/redux-options.php:2034 inc/redux-options.php:2044
+#: inc/redux-options.php:2054 inc/redux-options.php:2064
+#: inc/redux-options.php:2074 inc/redux-options.php:2084
+msgid "Name of the review criteria"
+msgstr ""
+
+#: inc/redux-metaboxes.php:688
+msgid "#1 - Criteria value"
+msgstr ""
+
+#: inc/redux-metaboxes.php:689 inc/redux-metaboxes.php:716
+#: inc/redux-metaboxes.php:743 inc/redux-metaboxes.php:770
+#: inc/redux-metaboxes.php:797 inc/redux-metaboxes.php:824
+#: inc/redux-metaboxes.php:851 inc/redux-metaboxes.php:878
+msgid "Min: 0, max: 100, step: 1, default value: 75"
+msgstr ""
+
+#: inc/redux-metaboxes.php:704 inc/redux-options.php:2023
+msgid "#2 - Criteria name"
+msgstr ""
+
+#: inc/redux-metaboxes.php:715
+msgid "#2 - Criteria value"
+msgstr ""
+
+#: inc/redux-metaboxes.php:731 inc/redux-options.php:2033
+msgid "#3 - Criteria name"
+msgstr ""
+
+#: inc/redux-metaboxes.php:742
+msgid "#3 - Criteria value"
+msgstr ""
+
+#: inc/redux-metaboxes.php:758 inc/redux-options.php:2043
+msgid "#4 - Criteria name"
+msgstr ""
+
+#: inc/redux-metaboxes.php:769
+msgid "#4 - Criteria value"
+msgstr ""
+
+#: inc/redux-metaboxes.php:785 inc/redux-options.php:2053
+msgid "#5 - Criteria name"
+msgstr ""
+
+#: inc/redux-metaboxes.php:796
+msgid "#5 - Criteria value"
+msgstr ""
+
+#: inc/redux-metaboxes.php:812 inc/redux-options.php:2063
+msgid "#6 - Criteria name"
+msgstr ""
+
+#: inc/redux-metaboxes.php:823
+msgid "#6 - Criteria value"
+msgstr ""
+
+#: inc/redux-metaboxes.php:839 inc/redux-options.php:2073
+msgid "#7 - Criteria name"
+msgstr ""
+
+#: inc/redux-metaboxes.php:850
+msgid "#7 - Criteria value"
+msgstr ""
+
+#: inc/redux-metaboxes.php:866 inc/redux-options.php:2083
+msgid "#8 - Criteria name"
+msgstr ""
+
+#: inc/redux-metaboxes.php:877
+msgid "#8 - Criteria value"
+msgstr ""
+
+#: inc/redux-metaboxes.php:896
+msgid "Audio post settings"
+msgstr ""
+
+#: inc/redux-metaboxes.php:902
+msgid "Audio embed"
+msgstr ""
+
+#: inc/redux-metaboxes.php:903 inc/redux-metaboxes.php:932
+msgid ""
+"Paste an embed link and it will be embeded in the post instead of featured "
+"image"
+msgstr ""
+
+#: inc/redux-metaboxes.php:908
+msgid "Audio title"
+msgstr ""
+
+#: inc/redux-metaboxes.php:913
+msgid "Audio author"
+msgstr ""
+
+#: inc/redux-metaboxes.php:919
+msgid "Video post settings"
+msgstr ""
+
+#: inc/redux-metaboxes.php:925 inc/redux-metaboxes.php:1278
+msgid "Video URL"
+msgstr ""
+
+#: inc/redux-metaboxes.php:926 inc/redux-metaboxes.php:1279
+msgid ""
+"Paste a link from Youtube, Vimeo or Dailymotion and it will be embeded in "
+"the post instead of featured image. This has higher prioriry than embed code."
+msgstr ""
+
+#: inc/redux-metaboxes.php:931 inc/redux-metaboxes.php:1284
+msgid "Video embed"
+msgstr ""
+
+#: inc/redux-metaboxes.php:944 inc/redux-metaboxes.php:1298
+#: inc/redux-options.php:3913 inc/redux-options.php:3942
+#: inc/redux-options.php:3990 inc/redux-options.php:4012
+#: inc/redux-options.php:4034 inc/redux-options.php:4056
+#: inc/redux-options.php:4078
+msgid "Top Ad"
+msgstr ""
+
+#: inc/redux-metaboxes.php:945
+msgid "Below the header"
+msgstr ""
+
+#: inc/redux-metaboxes.php:953 inc/redux-options.php:3950
+msgid "Post Ad 1"
+msgstr ""
+
+#: inc/redux-metaboxes.php:954 inc/redux-options.php:3951
+msgid "Before the post"
+msgstr ""
+
+#: inc/redux-metaboxes.php:962 inc/redux-options.php:3958
+msgid "Post Ad 2"
+msgstr ""
+
+#: inc/redux-metaboxes.php:963 inc/redux-options.php:3959
+msgid "Before post content (after image)"
+msgstr ""
+
+#: inc/redux-metaboxes.php:971 inc/redux-options.php:3966
+msgid "Post Ad 3"
+msgstr ""
+
+#: inc/redux-metaboxes.php:972 inc/redux-options.php:3967
+msgid "After the post"
+msgstr ""
+
+#: inc/redux-metaboxes.php:980 inc/redux-metaboxes.php:1306
+#: inc/redux-options.php:1093 inc/redux-options.php:1306
+#: inc/redux-options.php:3920 inc/redux-options.php:3975
+#: inc/redux-options.php:3997 inc/redux-options.php:4019
+#: inc/redux-options.php:4041 inc/redux-options.php:4063
+#: inc/redux-options.php:4085
+msgid "Wallpaper Ad"
+msgstr ""
+
+#: inc/redux-metaboxes.php:993
+msgid "Post Options"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1013
+msgid "Page Settings"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1020 inc/redux-options.php:2347
+#: inc/redux-options.php:2649
+msgid "Page layout"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1021
+msgid "Select layout for this page."
+msgstr ""
+
+#: inc/redux-metaboxes.php:1043
+msgid "Select main sidebar position for this page."
+msgstr ""
+
+#: inc/redux-metaboxes.php:1076
+msgid "Enable unique posts"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1083 inc/redux-options.php:205
+msgid "Display News Scroller"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1091
+msgid "Select Quicklinks Menu"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1092 inc/redux-options.php:657
+msgid "Select what menu to display as quicklinks"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1106
+msgid "Top slider"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1112 inc/redux-options.php:241
+msgid "Enable Top Slider"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1118 inc/redux-options.php:247
+msgid "Hide slider on mobile devices"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1125 inc/redux-options.php:254
+msgid "Slider display"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1126 inc/redux-options.php:255
+msgid "Choose how to display your posts"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1138 inc/redux-options.php:267
+msgid "Slider layout"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1139 inc/redux-options.php:268
+msgid "Choose layout for your slider"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1153 inc/redux-options.php:282
+msgid "Slider padding (px)"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1165 inc/redux-options.php:294
+msgid "Slider background"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1173 inc/redux-options.php:302
+#: inc/vc/vc-template-carousel-1.php:71
+msgid "Auto Start"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1174 inc/redux-options.php:303
+msgid "Determines whether the carousel should scroll automatically or not."
+msgstr ""
+
+#: inc/redux-metaboxes.php:1181 inc/redux-options.php:310
+msgid "Auto Start Delay"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1186 inc/redux-options.php:315
+msgid ""
+"delay in milliseconds before the carousel starts scrolling the first time"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1195 inc/redux-options.php:324
+msgid "Show text summary"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1196 inc/redux-options.php:325
+msgid "Do you want to display short summary bellow title?"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1219 inc/redux-options.php:348
+msgid "Display slides"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1220 inc/redux-options.php:349
+msgid "Choose how many slides to display"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1242 inc/redux-options.php:371
+msgid "Show categories"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1243 inc/redux-options.php:372
+msgid "Choose categories to show in slider"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1258 inc/redux-options.php:387
+#: inc/redux-options.php:3205
+msgid "Display Category labels as"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1272
+msgid "Video page settings"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1285
+msgid ""
+"Paste an embed link and it will be embeded in the post instead of featured "
+"image."
+msgstr ""
+
+#: inc/redux-metaboxes.php:1316
+msgid "Page Options"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1333
+msgid "Edit Your Ad"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1340
+msgid "Ad Display"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1349
+msgid "Ad Type"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1358
+msgid "Ad Size"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1359
+msgid "Select your ad size"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1386
+msgid "Top Banner image"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1394
+msgid "Top Banner URL"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1395
+msgid "Link target for image banner (e.g. http://themes.mipdesign.com)"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1401
+msgid "URL Behaviour"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1412
+msgid "Top Banner Embed Code"
+msgstr ""
+
+#: inc/redux-metaboxes.php:1422
+msgid "Ads Settings"
+msgstr ""
+
+#: inc/redux-options.php:87
+msgid "Section via hook"
+msgstr ""
+
+#: inc/redux-options.php:88
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/redux-options.php:143
+msgid "Homepage"
+msgstr ""
+
+#: inc/redux-options.php:151
+msgid "Only if \"Front page display\" is set to \"Your latest posts\"."
+msgstr ""
+
+#: inc/redux-options.php:156 inc/redux-options.php:2469
+#: inc/redux-options.php:2558 inc/redux-options.php:2712
+#: inc/redux-options.php:2811
+msgid "Posts layout"
+msgstr ""
+
+#: inc/redux-options.php:157 inc/redux-options.php:2470
+#: inc/redux-options.php:2559 inc/redux-options.php:2713
+#: inc/redux-options.php:2812
+msgid "Select layout for posts."
+msgstr ""
+
+#: inc/redux-options.php:174 inc/redux-options.php:1005
+#: inc/redux-options.php:1218 inc/redux-options.php:1384
+#: inc/redux-options.php:2422 inc/redux-options.php:2507
+#: inc/redux-options.php:2574 inc/redux-options.php:2728
+#: inc/redux-options.php:2827 inc/redux-options.php:3049
+#: inc/redux-options.php:3091
+msgid "Select main sidebar position for posts."
+msgstr ""
+
+#: inc/redux-options.php:185 inc/redux-options.php:1017
+#: inc/redux-options.php:1229 inc/redux-options.php:1395
+#: inc/redux-options.php:2381 inc/redux-options.php:2433
+#: inc/redux-options.php:2518 inc/redux-options.php:2585
+#: inc/redux-options.php:2739 inc/redux-options.php:2838
+#: inc/redux-options.php:3060 inc/redux-options.php:3102
+msgid "Choose default middle sidebar"
+msgstr ""
+
+#: inc/redux-options.php:195 inc/redux-options.php:1028
+#: inc/redux-options.php:1242 inc/redux-options.php:1405
+#: inc/redux-options.php:2391 inc/redux-options.php:2443
+#: inc/redux-options.php:2528 inc/redux-options.php:2595
+#: inc/redux-options.php:2749 inc/redux-options.php:2848
+#: inc/redux-options.php:3070 inc/redux-options.php:3112
+msgid "Choose default sidebar"
+msgstr ""
+
+#: inc/redux-options.php:196 inc/redux-options.php:1029
+#: inc/redux-options.php:1243 inc/redux-options.php:1406
+#: inc/redux-options.php:2392 inc/redux-options.php:2444
+#: inc/redux-options.php:2529 inc/redux-options.php:2596
+#: inc/redux-options.php:2750 inc/redux-options.php:2849
+#: inc/redux-options.php:3071 inc/redux-options.php:3113
+msgid "Sidebar for left/right column"
+msgstr ""
+
+#: inc/redux-options.php:211 inc/redux-options.php:1039
+#: inc/redux-options.php:1253 inc/redux-options.php:2485
+#: inc/redux-options.php:2612 inc/redux-options.php:2791
+#: inc/redux-options.php:2870
+msgid "Posts per page"
+msgstr ""
+
+#: inc/redux-options.php:216 inc/redux-options.php:1044
+#: inc/redux-options.php:1258 inc/redux-options.php:2490
+#: inc/redux-options.php:2617 inc/redux-options.php:2796
+#: inc/redux-options.php:2875
+msgid "0 for using default wordpress settings"
+msgstr ""
+
+#: inc/redux-options.php:221 inc/redux-options.php:1050
+#: inc/redux-options.php:2538 inc/redux-options.php:2622
+#: inc/redux-options.php:2759 inc/redux-options.php:2858
+msgid "Pagination template"
+msgstr ""
+
+#: inc/redux-options.php:222 inc/redux-options.php:1051
+#: inc/redux-options.php:2539 inc/redux-options.php:2623
+#: inc/redux-options.php:2760 inc/redux-options.php:2859
+msgid "Choose template for pagination."
+msgstr ""
+
+#: inc/redux-options.php:236
+msgid ""
+"<strong>Top Slider</strong><br>Only if \"Front page display\" is set to "
+"\"Your latest posts\"."
+msgstr ""
+
+#: inc/redux-options.php:403
+msgid "Header Settings"
+msgstr ""
+
+#: inc/redux-options.php:410
+msgid "Header layout"
+msgstr ""
+
+#: inc/redux-options.php:411
+msgid "Select header layout."
+msgstr ""
+
+#: inc/redux-options.php:427
+msgid "Header type"
+msgstr ""
+
+#: inc/redux-options.php:428
+msgid "Type of header to display"
+msgstr ""
+
+#: inc/redux-options.php:438
+msgid "Desktop logo"
+msgstr ""
+
+#: inc/redux-options.php:439
+msgid "Logo for desktop version"
+msgstr ""
+
+#: inc/redux-options.php:449
+msgid "Desktop Retina logo"
+msgstr ""
+
+#: inc/redux-options.php:450
+msgid "Retina Logo for desktop version"
+msgstr ""
+
+#: inc/redux-options.php:455
+msgid "Mobile logo"
+msgstr ""
+
+#: inc/redux-options.php:456
+msgid "Logo for mobile version"
+msgstr ""
+
+#: inc/redux-options.php:466
+msgid "Mobile Retina logo"
+msgstr ""
+
+#: inc/redux-options.php:467
+msgid "Retina Logo for mobile version"
+msgstr ""
+
+#: inc/redux-options.php:472
+msgid "Weather location"
+msgstr ""
+
+#: inc/redux-options.php:473
+msgid "Enter city and contry"
+msgstr ""
+
+#: inc/redux-options.php:474
+msgid "e.g. Paris, France"
+msgstr ""
+
+#: inc/redux-options.php:481
+msgid "Display temperature in"
+msgstr ""
+
+#: inc/redux-options.php:492 inc/redux-options.php:709
+#: inc/redux-options.php:3191
+msgid "Display date"
+msgstr ""
+
+#: inc/redux-options.php:499
+msgid "Display weather description"
+msgstr ""
+
+#: inc/redux-options.php:508
+msgid "Language for description"
+msgstr ""
+
+#: inc/redux-options.php:538
+msgid "Banner 728x90"
+msgstr ""
+
+#: inc/redux-options.php:547
+msgid "Banner left"
+msgstr ""
+
+#: inc/redux-options.php:556
+msgid "Banner right"
+msgstr ""
+
+#: inc/redux-options.php:568
+msgid "Navigation"
+msgstr ""
+
+#: inc/redux-options.php:575
+msgid "Sticky menu"
+msgstr ""
+
+#: inc/redux-options.php:576
+msgid "Use navigation as sticky menu"
+msgstr ""
+
+#: inc/redux-options.php:584
+msgid "Sticky mobile menu"
+msgstr ""
+
+#: inc/redux-options.php:585
+msgid "Use mobile header as sticky menu"
+msgstr ""
+
+#: inc/redux-options.php:593
+msgid "Sticky menu logo"
+msgstr ""
+
+#: inc/redux-options.php:594
+msgid "Logo for sticky menu"
+msgstr ""
+
+#: inc/redux-options.php:600
+msgid "Hide first item on sticky menu"
+msgstr ""
+
+#: inc/redux-options.php:601
+msgid "Hide first navigation item"
+msgstr ""
+
+#: inc/redux-options.php:614 inc/redux-options.php:694
+msgid "Display login/register"
+msgstr ""
+
+#: inc/redux-options.php:615
+msgid "Display login/register links in main navigation"
+msgstr ""
+
+#: inc/redux-options.php:616 inc/redux-options.php:626
+msgid "Do not display this if you have long menu"
+msgstr ""
+
+#: inc/redux-options.php:624
+msgid "Display search button"
+msgstr ""
+
+#: inc/redux-options.php:625
+msgid "Display search button in main navigation"
+msgstr ""
+
+#: inc/redux-options.php:634
+msgid "Sub navigation"
+msgstr ""
+
+#: inc/redux-options.php:635
+msgid "Show sub menu below main navigation"
+msgstr ""
+
+#: inc/redux-options.php:636
+msgid ""
+"This should be used only when you have main category filled only with "
+"categories and you cannot have Quicklinks menu at the same time"
+msgstr ""
+
+#: inc/redux-options.php:645
+msgid "Quicklinks menu"
+msgstr ""
+
+#: inc/redux-options.php:646
+msgid "Show quicklinks menu below main navigation"
+msgstr ""
+
+#: inc/redux-options.php:647
+msgid "You cannot have Sub navigation enabled if you enable this option"
+msgstr ""
+
+#: inc/redux-options.php:656
+msgid "Select Quicklinks global menu"
+msgstr ""
+
+#: inc/redux-options.php:665
+msgid "Quicklinks menu type"
+msgstr ""
+
+#: inc/redux-options.php:666
+msgid "Type of menu to display"
+msgstr ""
+
+#: inc/redux-options.php:677
+msgid "Top Menu Settings"
+msgstr ""
+
+#: inc/redux-options.php:678
+msgid "Set your top menu before header branding"
+msgstr ""
+
+#: inc/redux-options.php:685
+msgid "Enable Top Menu"
+msgstr ""
+
+#: inc/redux-options.php:686
+msgid "Enable top navigation"
+msgstr ""
+
+#: inc/redux-options.php:695
+msgid "Display login/register links in top navigation"
+msgstr ""
+
+#: inc/redux-options.php:710
+msgid "Do you want to display date in top menu"
+msgstr ""
+
+#: inc/redux-options.php:723
+msgid "Display social icons"
+msgstr ""
+
+#: inc/redux-options.php:724
+msgid "Display social icons in top navigation (if enabled)"
+msgstr ""
+
+#: inc/redux-options.php:725 inc/redux-options.php:745
+msgid "This will show links you selected under \"Social Networking\""
+msgstr ""
+
+#: inc/redux-options.php:735
+msgid "Social Networking"
+msgstr ""
+
+#: inc/redux-options.php:743
+msgid "Display \"+follow\" menu item"
+msgstr ""
+
+#: inc/redux-options.php:744
+msgid "Display follow link with dropdown in main navigation"
+msgstr ""
+
+#: inc/redux-options.php:751
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/redux-options.php:756
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/redux-options.php:761
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/redux-options.php:766
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/redux-options.php:771
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/redux-options.php:776
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/redux-options.php:781
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/redux-options.php:786
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/redux-options.php:791
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/redux-options.php:796
+msgid "Behance URL"
+msgstr ""
+
+#: inc/redux-options.php:801
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/redux-options.php:806
+msgid "Reddit URL"
+msgstr ""
+
+#: inc/redux-options.php:811
+msgid "VKontakte URL"
+msgstr ""
+
+#: inc/redux-options.php:816
+msgid "Weibo URL"
+msgstr ""
+
+#: inc/redux-options.php:821
+msgid "WeChat URL"
+msgstr ""
+
+#: inc/redux-options.php:826
+msgid "QQ URL"
+msgstr ""
+
+#: inc/redux-options.php:831
+msgid "RSS URL"
+msgstr ""
+
+#: inc/redux-options.php:852 inc/redux-options.php:1079
+msgid ""
+"This are default setting for all categories. If you want to override this, "
+"please select custom settings for desired category below."
+msgstr ""
+
+#: inc/redux-options.php:858 inc/redux-options.php:1181
+msgid "Category layout"
+msgstr ""
+
+#: inc/redux-options.php:859
+msgid "Select layout for all categories."
+msgstr ""
+
+#: inc/redux-options.php:876 inc/redux-options.php:1199
+msgid "Show category title on top"
+msgstr ""
+
+#: inc/redux-options.php:888
+msgid "Image Box Layout"
+msgstr ""
+
+#: inc/redux-options.php:889
+msgid "Select layout for image boxes."
+msgstr ""
+
+#: inc/redux-options.php:901
+msgid "Enable Post Meta on Image Boxes"
+msgstr ""
+
+#: inc/redux-options.php:902 inc/redux-options.php:946
+msgid "Show date/comments/views"
+msgstr ""
+
+#: inc/redux-options.php:913 inc/redux-options.php:957
+msgid "What Post Meta info to display"
+msgstr ""
+
+#: inc/redux-options.php:914 inc/redux-options.php:958
+msgid "Select what you want to display"
+msgstr ""
+
+#: inc/redux-options.php:931
+msgid "Layout hover effect"
+msgstr ""
+
+#: inc/redux-options.php:932
+msgid "Do you want hover effect on layouts"
+msgstr ""
+
+#: inc/redux-options.php:945
+msgid "Enable Post Meta on Text layouts"
+msgstr ""
+
+#: inc/redux-options.php:997 inc/redux-options.php:1210
+msgid "Category image"
+msgstr ""
+
+#: inc/redux-options.php:1062 inc/redux-options.php:1264
+msgid "Select Quicklinks category menu"
+msgstr ""
+
+#: inc/redux-options.php:1063
+msgid "Select what quicklinks menu to display on categories"
+msgstr ""
+
+#: inc/redux-options.php:1085 inc/redux-options.php:1298
+msgid "Top banner"
+msgstr ""
+
+#: inc/redux-options.php:1101 inc/redux-options.php:1315
+msgid "Banner in Layout"
+msgstr ""
+
+#: inc/redux-options.php:1102
+msgid "Do you want to divide layout with an ad?"
+msgstr ""
+
+#: inc/redux-options.php:1110 inc/redux-options.php:1323
+msgid "Show banner after row:"
+msgstr ""
+
+#: inc/redux-options.php:1115 inc/redux-options.php:1328
+msgid "0 for showing banner on top of category"
+msgstr ""
+
+#: inc/redux-options.php:1144 inc/redux-options.php:1160
+msgid "Select Category"
+msgstr ""
+
+#: inc/redux-options.php:1155
+msgid "Custom settings for top categories "
+msgstr ""
+
+#: inc/redux-options.php:1265
+msgid "Select what quicklinks menu to display on this category"
+msgstr ""
+
+#: inc/redux-options.php:1274
+msgid "Use this setting for child categories"
+msgstr ""
+
+#: inc/redux-options.php:1344
+msgid "Categories"
+msgstr ""
+
+#: inc/redux-options.php:1360
+msgid "Select main layout for posts."
+msgstr ""
+
+#: inc/redux-options.php:1416
+msgid "Enable Lazy Load for images"
+msgstr ""
+
+#: inc/redux-options.php:1417
+msgid "Lazy Load is delays loading of images in long web pages"
+msgstr ""
+
+#: inc/redux-options.php:1423
+msgid "Show Category on post images"
+msgstr ""
+
+#: inc/redux-options.php:1430
+msgid "Show Post Format after category"
+msgstr ""
+
+#: inc/redux-options.php:1449
+msgid "Show category on featured image"
+msgstr ""
+
+#: inc/redux-options.php:1456 inc/redux-options.php:2401
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: inc/redux-options.php:1467
+msgid "Enable Post Meta after Title"
+msgstr ""
+
+#: inc/redux-options.php:1479
+msgid "What to display in Post Meta"
+msgstr ""
+
+#: inc/redux-options.php:1500
+msgid "Enable Tags after Content"
+msgstr ""
+
+#: inc/redux-options.php:1511
+msgid "Enable Author Information"
+msgstr ""
+
+#: inc/redux-options.php:1522
+msgid "Enable Prev/Next Posts"
+msgstr ""
+
+#: inc/redux-options.php:1538
+msgid "Related posts settings"
+msgstr ""
+
+#: inc/redux-options.php:1576
+msgid "Default: <i>\"Related Posts\"</i>"
+msgstr ""
+
+#: inc/redux-options.php:1583
+msgid "Posts Count"
+msgstr ""
+
+#: inc/redux-options.php:1584
+msgid "Default: <i>\"3\"</i>"
+msgstr ""
+
+#: inc/redux-options.php:1589
+msgid "Number of related posts to display"
+msgstr ""
+
+#: inc/redux-options.php:1596 inc/redux-options.php:1731
+#: inc/redux-options.php:1825 inc/redux-options.php:1919
+msgid "Default: <i>\"0\"</i> (No offset)"
+msgstr ""
+
+#: inc/redux-options.php:1597 inc/redux-options.php:1732
+#: inc/redux-options.php:1826 inc/redux-options.php:1920
+msgid "Number of post to displace or pass over"
+msgstr ""
+
+#: inc/redux-options.php:1951
+msgid "Review posts settings"
+msgstr ""
+
+#: inc/redux-options.php:1952
+msgid "Set default values for reviews (can be overwritten on post posts)"
+msgstr ""
+
+#: inc/redux-options.php:2093
+msgid "Background color for progress bar"
+msgstr ""
+
+#: inc/redux-options.php:2117
+msgid ""
+"These are default settings for <strong>Block Review Template</strong> under "
+"Visual Composer"
+msgstr ""
+
+#: inc/redux-options.php:2122
+msgid "Background color"
+msgstr ""
+
+#: inc/redux-options.php:2141
+msgid "Font color"
+msgstr ""
+
+#: inc/redux-options.php:2152
+msgid "Social sharing settings"
+msgstr ""
+
+#: inc/redux-options.php:2159
+msgid "Display social sharing buttons"
+msgstr ""
+
+#: inc/redux-options.php:2160
+msgid "Where to display buttons"
+msgstr ""
+
+#: inc/redux-options.php:2173
+msgid "Title Social Sharing"
+msgstr ""
+
+#: inc/redux-options.php:2174
+msgid "Default: <i>\"\"</i>"
+msgstr ""
+
+#: inc/redux-options.php:2182
+msgid "Social Sharing Styles"
+msgstr ""
+
+#: inc/redux-options.php:2183
+msgid "Select theme for buttons."
+msgstr ""
+
+#: inc/redux-options.php:2221
+msgid "Display Facebook button"
+msgstr ""
+
+#: inc/redux-options.php:2222
+msgid "How to display Facebook button"
+msgstr ""
+
+#: inc/redux-options.php:2238
+msgid "Display Twitter button"
+msgstr ""
+
+#: inc/redux-options.php:2239
+msgid "How to display Twitter button"
+msgstr ""
+
+#: inc/redux-options.php:2255
+msgid "Display Google button"
+msgstr ""
+
+#: inc/redux-options.php:2256
+msgid "How to display Google button"
+msgstr ""
+
+#: inc/redux-options.php:2272
+msgid "Display LinkedIn button"
+msgstr ""
+
+#: inc/redux-options.php:2273
+msgid "How to display LinkedIn button"
+msgstr ""
+
+#: inc/redux-options.php:2289
+msgid "Display Pinterest button"
+msgstr ""
+
+#: inc/redux-options.php:2290
+msgid "How to display Pinterest button"
+msgstr ""
+
+#: inc/redux-options.php:2310
+msgid "Comments settings"
+msgstr ""
+
+#: inc/redux-options.php:2311
+msgid "Set additional values for comment section!"
+msgstr ""
+
+#: inc/redux-options.php:2318
+msgid "Show Facebook Comments"
+msgstr ""
+
+#: inc/redux-options.php:2319
+msgid "This will disable standard comments"
+msgstr ""
+
+#: inc/redux-options.php:2325
+msgid "Number of Comments"
+msgstr ""
+
+#: inc/redux-options.php:2330
+msgid "The number of comments to show by default."
+msgstr ""
+
+#: inc/redux-options.php:2341
+msgid "Pages Settings"
+msgstr ""
+
+#: inc/redux-options.php:2348
+msgid "Select main layout for pages."
+msgstr ""
+
+#: inc/redux-options.php:2370
+msgid "Select main sidebar position for pages."
+msgstr ""
+
+#: inc/redux-options.php:2402
+msgid "This option only affects <b>pages</b>."
+msgstr ""
+
+#: inc/redux-options.php:2414
+msgid "404 page"
+msgstr ""
+
+#: inc/redux-options.php:2453
+msgid "Show latest posts"
+msgstr ""
+
+#: inc/redux-options.php:2454
+msgid "Show latest posts below search"
+msgstr ""
+
+#: inc/redux-options.php:2462
+msgid "Latest posts title"
+msgstr ""
+
+#: inc/redux-options.php:2463
+msgid "Our latest posts"
+msgstr ""
+
+#: inc/redux-options.php:2499
+msgid "Archive page"
+msgstr ""
+
+#: inc/redux-options.php:2551
+msgid "Author page"
+msgstr ""
+
+#: inc/redux-options.php:2605
+msgid "Page Title"
+msgstr ""
+
+#: inc/redux-options.php:2607
+msgid "Title before author's posts"
+msgstr ""
+
+#: inc/redux-options.php:2633 inc/redux-options.php:2688
+msgid "Display author's meta"
+msgstr ""
+
+#: inc/redux-options.php:2634 inc/redux-options.php:2689
+msgid "No. of posts, comments and views"
+msgstr ""
+
+#: inc/redux-options.php:2643
+msgid ""
+"<strong>Team Of Authors Page</strong><br>Only if \"Team Of Authors\" is set "
+"as page template."
+msgstr ""
+
+#: inc/redux-options.php:2650
+msgid "Select layout for authors."
+msgstr ""
+
+#: inc/redux-options.php:2661 inc/redux-options.php:2675
+msgid "No. of columns"
+msgstr ""
+
+#: inc/redux-options.php:2662 inc/redux-options.php:2676
+msgid "Display authors info in columns"
+msgstr ""
+
+#: inc/redux-options.php:2696
+msgid "Exclude Authors"
+msgstr ""
+
+#: inc/redux-options.php:2697
+msgid "Don't display these authors"
+msgstr ""
+
+#: inc/redux-options.php:2698
+msgid "List of authots id, separated by commas (e.g. 2,3,5)."
+msgstr ""
+
+#: inc/redux-options.php:2705
+msgid "Search page"
+msgstr ""
+
+#: inc/redux-options.php:2770
+msgid "Enable Advanced Search"
+msgstr ""
+
+#: inc/redux-options.php:2780
+msgid "Exclude Pages in results"
+msgstr ""
+
+#: inc/redux-options.php:2804
+msgid "Tag page"
+msgstr ""
+
+#: inc/redux-options.php:3041
+msgid "bbPress page"
+msgstr ""
+
+#: inc/redux-options.php:3083
+msgid "WooCommerce page"
+msgstr ""
+
+#: inc/redux-options.php:3126
+msgid "NewsScroller Settings"
+msgstr ""
+
+#: inc/redux-options.php:3127
+msgid "Set default values for news scroller"
+msgstr ""
+
+#: inc/redux-options.php:3133
+msgid "Enable News Scroller"
+msgstr ""
+
+#: inc/redux-options.php:3139
+msgid "News Scroller Title"
+msgstr ""
+
+#: inc/redux-options.php:3146
+msgid "News Scroller Title Link"
+msgstr ""
+
+#: inc/redux-options.php:3153
+msgid "News Scroller Title Background"
+msgstr ""
+
+#: inc/redux-options.php:3166
+msgid "Filter by categories"
+msgstr ""
+
+#: inc/redux-options.php:3198
+msgid "Display category"
+msgstr ""
+
+#: inc/redux-options.php:3218
+msgid "Sidebars"
+msgstr ""
+
+#: inc/redux-options.php:3225
+msgid "My Sidebars"
+msgstr ""
+
+#: inc/redux-options.php:3226
+msgid "Add/remove your sidebars"
+msgstr ""
+
+#: inc/redux-options.php:3227
+msgid "Add sidebar"
+msgstr ""
+
+#: inc/redux-options.php:3233
+msgid "Enable sticky sidebars"
+msgstr ""
+
+#: inc/redux-options.php:3234
+msgid "Set sidebars to be sticky"
+msgstr ""
+
+#: inc/redux-options.php:3249
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/redux-options.php:3256
+msgid "Enable widgetized area"
+msgstr ""
+
+#: inc/redux-options.php:3266
+msgid "Area layout"
+msgstr ""
+
+#: inc/redux-options.php:3267
+msgid "Select footer layout."
+msgstr ""
+
+#: inc/redux-options.php:3279
+msgid "Choose sidebar for first column"
+msgstr ""
+
+#: inc/redux-options.php:3291
+msgid "Choose sidebar for second column"
+msgstr ""
+
+#: inc/redux-options.php:3300
+msgid "Choose sidebar for third column"
+msgstr ""
+
+#: inc/redux-options.php:3309
+msgid "Choose sidebar for fourth column"
+msgstr ""
+
+#: inc/redux-options.php:3320
+msgid "Enable copyright section"
+msgstr ""
+
+#: inc/redux-options.php:3329
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/redux-options.php:3336
+msgid "Author Text"
+msgstr ""
+
+#: inc/redux-options.php:3346 inc/redux-options.php:3352
+msgid "Theme Styling"
+msgstr ""
+
+#: inc/redux-options.php:3353
+msgid "Select theme styling"
+msgstr ""
+
+#: inc/redux-options.php:3363
+msgid "Light Theme Styling"
+msgstr ""
+
+#: inc/redux-options.php:3364
+msgid "Specify light theme styling"
+msgstr ""
+
+#: inc/redux-options.php:3379
+msgid "Typography"
+msgstr ""
+
+#: inc/redux-options.php:3386
+msgid "Select the character set"
+msgstr ""
+
+#: inc/redux-options.php:3387
+msgid "This include default theme font only"
+msgstr ""
+
+#: inc/redux-options.php:3402
+msgid "Body Font"
+msgstr ""
+
+#: inc/redux-options.php:3403
+msgid "Specify the body font properties."
+msgstr ""
+
+#: inc/redux-options.php:3421
+msgid "Navigation Fonts"
+msgstr ""
+
+#: inc/redux-options.php:3422
+msgid "Typography for header and footer navigation"
+msgstr ""
+
+#: inc/redux-options.php:3430
+msgid "Top Navigation"
+msgstr ""
+
+#: inc/redux-options.php:3431 inc/redux-options.php:3466
+#: inc/redux-options.php:3502 inc/redux-options.php:3556
+#: inc/redux-options.php:3605 inc/redux-options.php:3624
+#: inc/redux-options.php:3643 inc/redux-options.php:3662
+#: inc/redux-options.php:3681 inc/redux-options.php:3725
+#: inc/redux-options.php:3780 inc/redux-options.php:3843
+#: inc/redux-options.php:3863
+msgid "Specify the font properties."
+msgstr ""
+
+#: inc/redux-options.php:3451
+msgid "Top Navigation Link"
+msgstr ""
+
+#: inc/redux-options.php:3452 inc/redux-options.php:3488
+#: inc/redux-options.php:3524 inc/redux-options.php:3701
+msgid "Specify the link properties"
+msgstr ""
+
+#: inc/redux-options.php:3465
+msgid "Header Navigation"
+msgstr ""
+
+#: inc/redux-options.php:3487
+msgid "Header Navigation Link"
+msgstr ""
+
+#: inc/redux-options.php:3501
+msgid "Quicklinks Navigation"
+msgstr ""
+
+#: inc/redux-options.php:3523
+msgid "Quicklinks Navigation Link"
+msgstr ""
+
+#: inc/redux-options.php:3537
+msgid "Quicklinks Navigation Background"
+msgstr ""
+
+#: inc/redux-options.php:3538
+msgid "Specify the background color"
+msgstr ""
+
+#: inc/redux-options.php:3555
+msgid "Footer Navigation"
+msgstr ""
+
+#: inc/redux-options.php:3576
+msgid "Post Settings"
+msgstr ""
+
+#: inc/redux-options.php:3577
+msgid "Entry Headings and links in posts and pages."
+msgstr ""
+
+#: inc/redux-options.php:3585
+msgid "Article Title Font"
+msgstr ""
+
+#: inc/redux-options.php:3586
+msgid "Specify the article title font properties."
+msgstr ""
+
+#: inc/redux-options.php:3604
+msgid "Article Heading H1"
+msgstr ""
+
+#: inc/redux-options.php:3623
+msgid "Article Heading H2"
+msgstr ""
+
+#: inc/redux-options.php:3642
+msgid "Article Heading H3"
+msgstr ""
+
+#: inc/redux-options.php:3661
+msgid "Article Heading H4"
+msgstr ""
+
+#: inc/redux-options.php:3680
+msgid "Article Heading H5"
+msgstr ""
+
+#: inc/redux-options.php:3700
+msgid "Posts Content Navigation Link"
+msgstr ""
+
+#: inc/redux-options.php:3715
+msgid "Section Titles"
+msgstr ""
+
+#: inc/redux-options.php:3716
+msgid "Typography for section titles"
+msgstr ""
+
+#: inc/redux-options.php:3724
+msgid "Main Content Section Titles"
+msgstr ""
+
+#: inc/redux-options.php:3746
+msgid "Main Content Title Border"
+msgstr ""
+
+#: inc/redux-options.php:3763
+msgid "Main Content Title Border Short"
+msgstr ""
+
+#: inc/redux-options.php:3779
+msgid "Sidebar Section Titles"
+msgstr ""
+
+#: inc/redux-options.php:3801
+msgid "Sidebar Title Border"
+msgstr ""
+
+#: inc/redux-options.php:3817
+msgid "Sidebar Title Border Short"
+msgstr ""
+
+#: inc/redux-options.php:3833
+msgid "Author Box"
+msgstr ""
+
+#: inc/redux-options.php:3834
+msgid "Typography for author box"
+msgstr ""
+
+#: inc/redux-options.php:3842
+msgid "Author Title"
+msgstr ""
+
+#: inc/redux-options.php:3862
+msgid "Author Description"
+msgstr ""
+
+#: inc/redux-options.php:3883
+msgid "Author Social Links"
+msgstr ""
+
+#: inc/redux-options.php:3884
+msgid "Specify color properties."
+msgstr ""
+
+#: inc/redux-options.php:3899
+msgid "You must first create ads in \"Ads System\""
+msgstr ""
+
+#: inc/redux-options.php:3907
+msgid "Ads for homepage"
+msgstr ""
+
+#: inc/redux-options.php:3929
+msgid "Ads for pages"
+msgstr ""
+
+#: inc/redux-options.php:3937
+msgid "Ads for Posts"
+msgstr ""
+
+#: inc/redux-options.php:3985
+msgid "Ads for Pages"
+msgstr ""
+
+#: inc/redux-options.php:4007
+msgid "Ads for Author Page"
+msgstr ""
+
+#: inc/redux-options.php:4029
+msgid "Ads for Archive Page"
+msgstr ""
+
+#: inc/redux-options.php:4051
+msgid "Ads for bbPress Page"
+msgstr ""
+
+#: inc/redux-options.php:4073
+msgid "Ads for WooCommerce Page"
+msgstr ""
+
+#: inc/redux-options.php:4095
+msgid "Ads for categories"
+msgstr ""
+
+#: inc/redux-options.php:4105
+msgid "Advanced Settings"
+msgstr ""
+
+#: inc/redux-options.php:4111
+msgid "Google Analytics Code"
+msgstr ""
+
+#: inc/redux-options.php:4112
+msgid ""
+"Here you can paste your Google Analytics code (not your id). If you don't "
+"have it or you are already using one, just leave blank. Don't use <b>&lt;"
+"script&gt;</b> tags."
+msgstr ""
+
+#: inc/redux-options.php:4119
+msgid "Custom CSS Code"
+msgstr ""
+
+#: inc/redux-options.php:4120
+msgid ""
+"e.g. #header{ background: #000; }<br> Don't use <b>&lt;style&gt;</b> tags"
+msgstr ""
+
+#: inc/redux-options.php:4121
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/redux-options.php:4130
+msgid "Custom JS Code (Header)"
+msgstr ""
+
+#: inc/redux-options.php:4131 inc/redux-options.php:4140
+msgid ""
+"e.g. alert(\"Hello World!\");<br> Don't use <b>&lt;script&gt;</b> tags or "
+"<strong>document.ready</strong>"
+msgstr ""
+
+#: inc/redux-options.php:4132 inc/redux-options.php:4141
+msgid "Paste your JS code here."
+msgstr ""
+
+#: inc/redux-options.php:4139
+msgid "Custom JS Code (Footer)"
+msgstr ""
+
+#: inc/redux-options.php:4147
+msgid "Register jQuery in footer"
+msgstr ""
+
+#: inc/redux-options.php:4148
+msgid "Disable this if you have problems with other plugins!"
+msgstr ""
+
+#: inc/redux-options.php:4159
+msgid "Datetime Settings"
+msgstr ""
+
+#: inc/redux-options.php:4160
+msgid ""
+"Please, check this tutorial on <a href=\"http://codex.wordpress.org/"
+"Formatting_Date_and_Time\" target=\"_blank\">how to format Date and Time</a>"
+msgstr ""
+
+#: inc/redux-options.php:4171
+msgid "Default date format"
+msgstr ""
+
+#: inc/redux-options.php:4172 inc/redux-options.php:4188
+msgid "Main content and posts"
+msgstr ""
+
+#: inc/redux-options.php:4173 inc/redux-options.php:4197
+msgid "(e.g.: November 6th, 2014)"
+msgstr ""
+
+#: inc/redux-options.php:4179
+msgid "Default short date format"
+msgstr ""
+
+#: inc/redux-options.php:4180
+msgid "Image layouts"
+msgstr ""
+
+#: inc/redux-options.php:4181 inc/redux-options.php:4205
+msgid "(e.g.: Nov 6th, 2014)"
+msgstr ""
+
+#: inc/redux-options.php:4187
+msgid "Default time format"
+msgstr ""
+
+#: inc/redux-options.php:4189
+msgid "(e.g.: 12:50 AM)"
+msgstr ""
+
+#: inc/redux-options.php:4195
+msgid "Header date format"
+msgstr ""
+
+#: inc/redux-options.php:4196
+msgid "Header widget"
+msgstr ""
+
+#: inc/redux-options.php:4203
+msgid "Sidebar date format"
+msgstr ""
+
+#: inc/redux-options.php:4204
+msgid "Shorter date to fit"
+msgstr ""
+
+#: inc/redux-options.php:4211
+msgid "Timeline date format"
+msgstr ""
+
+#: inc/redux-options.php:4212
+msgid "Timeline Widget"
+msgstr ""
+
+#: inc/redux-options.php:4213
+msgid "(e.g.: Nov 6th)"
+msgstr ""
+
+#: inc/redux-options.php:4223
+msgid "Favicons"
+msgstr ""
+
+#: inc/redux-options.php:4230
+msgid "Favicon 16x16 pixels (ico)"
+msgstr ""
+
+#: inc/redux-options.php:4231
+msgid "The 16x16 favicon is the most used on all browsers."
+msgstr ""
+
+#: inc/redux-options.php:4237
+msgid "Apple Touch Icon 57x57 pixels (png)"
+msgstr ""
+
+#: inc/redux-options.php:4238
+msgid "For non-Retina iPhone, iPod Touch, and Android 2.1+ devices"
+msgstr ""
+
+#: inc/redux-options.php:4244
+msgid "Apple Touch Icon 76x76 pixels (png)"
+msgstr ""
+
+#: inc/redux-options.php:4245
+msgid "Size for iPad 2 and iPad mini (standard resolution)"
+msgstr ""
+
+#: inc/redux-options.php:4251
+msgid "Apple Touch Icon 120x120 pixels (png)"
+msgstr ""
+
+#: inc/redux-options.php:4252
+msgid "Size for iPhone and iPod touch (high resolution)"
+msgstr ""
+
+#: inc/redux-options.php:4258
+msgid "Apple Touch Icon 152x152 pixels (png)"
+msgstr ""
+
+#: inc/redux-options.php:4259
+msgid "Size for iPad and iPad mini (high resolution)"
+msgstr ""
+
+#: inc/redux-options.php:4276
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/redux-options.php:4283 inc/redux-options.php:4286
+msgid "Current theme preview"
+msgstr ""
+
+#: inc/redux-options.php:4295
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: inc/redux-options.php:4296
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: inc/redux-options.php:4301
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: inc/redux-options.php:4302
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: inc/redux-options.php:4317
+msgid "Theme Information"
+msgstr ""
+
+#: inc/redux-options.php:4331
+msgid "Documentation"
+msgstr ""
+
+#: inc/redux-options.php:4356 inc/redux-options.php:4357
+msgid "Theme Options"
+msgstr ""
+
+#: inc/redux-options.php:4427
+msgid ""
+"<p>Don't forget to <a href=\"http://themeforest.net/user/mip\" target="
+"\"_blank\">rate us</a> if you like this template.</p>"
+msgstr ""
+
+#: inc/tgm-required-plugin-activation-load.php:67
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm-required-plugin-activation-load.php:77
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-required-plugin-activation-load.php:80
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:48
+msgid "Block Layout 1"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:53 inc/vc/vc-template-block-10.php:44
+#: inc/vc/vc-template-block-11.php:44 inc/vc/vc-template-block-12.php:44
+#: inc/vc/vc-template-block-2.php:44 inc/vc/vc-template-block-3.php:44
+#: inc/vc/vc-template-block-4.php:44 inc/vc/vc-template-block-5.php:44
+#: inc/vc/vc-template-block-6.php:44 inc/vc/vc-template-block-7.php:44
+#: inc/vc/vc-template-block-8.php:44 inc/vc/vc-template-block-9.php:44
+#: inc/vc/vc-template-block-ads-system.php:44
+#: inc/vc/vc-template-carousel-1.php:53 inc/vc/vc-template-spacer.php:42
+msgid "Content"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:61 inc/vc/vc-template-block-10.php:52
+#: inc/vc/vc-template-block-11.php:52 inc/vc/vc-template-block-12.php:52
+#: inc/vc/vc-template-block-2.php:52 inc/vc/vc-template-block-3.php:52
+#: inc/vc/vc-template-block-4.php:52 inc/vc/vc-template-block-5.php:52
+#: inc/vc/vc-template-block-6.php:52 inc/vc/vc-template-block-7.php:52
+#: inc/vc/vc-template-block-8.php:52 inc/vc/vc-template-block-9.php:52
+#: inc/vc/vc-template-wc-block-1.php:61 inc/vc/vc-template-wc-block-2.php:61
+#: inc/vc/vc-template-wc-block-3.php:61
+msgid "Block Title:"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:62 inc/vc/vc-template-block-1.php:72
+#: inc/vc/vc-template-block-10.php:53 inc/vc/vc-template-block-10.php:63
+#: inc/vc/vc-template-block-11.php:53 inc/vc/vc-template-block-11.php:63
+#: inc/vc/vc-template-block-12.php:53 inc/vc/vc-template-block-12.php:63
+#: inc/vc/vc-template-block-2.php:53 inc/vc/vc-template-block-2.php:63
+#: inc/vc/vc-template-block-3.php:53 inc/vc/vc-template-block-3.php:63
+#: inc/vc/vc-template-block-4.php:53 inc/vc/vc-template-block-4.php:63
+#: inc/vc/vc-template-block-5.php:53 inc/vc/vc-template-block-5.php:63
+#: inc/vc/vc-template-block-6.php:53 inc/vc/vc-template-block-6.php:63
+#: inc/vc/vc-template-block-7.php:62 inc/vc/vc-template-block-8.php:53
+#: inc/vc/vc-template-block-8.php:63 inc/vc/vc-template-block-9.php:53
+#: inc/vc/vc-template-block-9.php:63 inc/vc/vc-template-wc-block-1.php:62
+#: inc/vc/vc-template-wc-block-1.php:72 inc/vc/vc-template-wc-block-2.php:62
+#: inc/vc/vc-template-wc-block-2.php:72 inc/vc/vc-template-wc-block-3.php:62
+#: inc/vc/vc-template-wc-block-3.php:72
+msgid "This is an optional field"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:71 inc/vc/vc-template-block-10.php:62
+#: inc/vc/vc-template-block-11.php:62 inc/vc/vc-template-block-12.php:62
+#: inc/vc/vc-template-block-2.php:62 inc/vc/vc-template-block-3.php:62
+#: inc/vc/vc-template-block-4.php:62 inc/vc/vc-template-block-5.php:62
+#: inc/vc/vc-template-block-6.php:62 inc/vc/vc-template-block-7.php:61
+#: inc/vc/vc-template-block-8.php:62 inc/vc/vc-template-block-9.php:62
+#: inc/vc/vc-template-wc-block-1.php:71 inc/vc/vc-template-wc-block-2.php:71
+#: inc/vc/vc-template-wc-block-3.php:71
+msgid "Block Title Link:"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:80 inc/vc/vc-template-block-10.php:71
+#: inc/vc/vc-template-block-11.php:71 inc/vc/vc-template-block-12.php:103
+#: inc/vc/vc-template-block-2.php:71 inc/vc/vc-template-block-3.php:71
+#: inc/vc/vc-template-block-4.php:71 inc/vc/vc-template-block-5.php:71
+#: inc/vc/vc-template-block-6.php:71 inc/vc/vc-template-block-8.php:71
+#: inc/vc/vc-template-block-9.php:71
+msgid "Category filter:"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:90 inc/vc/vc-template-block-10.php:81
+#: inc/vc/vc-template-block-11.php:81 inc/vc/vc-template-block-12.php:113
+#: inc/vc/vc-template-block-2.php:81 inc/vc/vc-template-block-3.php:81
+#: inc/vc/vc-template-block-4.php:81 inc/vc/vc-template-block-5.php:81
+#: inc/vc/vc-template-block-6.php:81 inc/vc/vc-template-block-8.php:81
+#: inc/vc/vc-template-block-9.php:81 inc/vc/vc-template-wc-block-1.php:90
+#: inc/vc/vc-template-wc-block-2.php:90 inc/vc/vc-template-wc-block-3.php:90
+msgid "Multiple categories filter:"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:103 inc/vc/vc-template-block-10.php:94
+#: inc/vc/vc-template-block-11.php:94 inc/vc/vc-template-block-12.php:126
+#: inc/vc/vc-template-block-2.php:94 inc/vc/vc-template-block-3.php:94
+#: inc/vc/vc-template-block-4.php:94 inc/vc/vc-template-block-5.php:94
+#: inc/vc/vc-template-block-6.php:94 inc/vc/vc-template-block-8.php:94
+#: inc/vc/vc-template-block-9.php:94
+msgid "Display categories as:"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:113 inc/vc/vc-template-block-10.php:104
+#: inc/vc/vc-template-block-11.php:104 inc/vc/vc-template-block-12.php:136
+#: inc/vc/vc-template-block-2.php:104 inc/vc/vc-template-block-3.php:104
+#: inc/vc/vc-template-block-4.php:104 inc/vc/vc-template-block-5.php:104
+#: inc/vc/vc-template-block-6.php:104 inc/vc/vc-template-block-7.php:88
+#: inc/vc/vc-template-block-8.php:104 inc/vc/vc-template-block-9.php:104
+msgid "Filter by tag slug:"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:150 inc/vc/vc-template-block-10.php:141
+#: inc/vc/vc-template-block-11.php:131 inc/vc/vc-template-block-12.php:163
+#: inc/vc/vc-template-block-2.php:141 inc/vc/vc-template-block-3.php:141
+#: inc/vc/vc-template-block-4.php:141 inc/vc/vc-template-block-5.php:141
+#: inc/vc/vc-template-block-6.php:141 inc/vc/vc-template-block-7.php:98
+#: inc/vc/vc-template-block-8.php:141 inc/vc/vc-template-block-9.php:141
+#: inc/vc/vc-template-wc-block-1.php:142 inc/vc/vc-template-wc-block-2.php:129
+#: inc/vc/vc-template-wc-block-3.php:129
+msgid "Posts per page:"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:160 inc/vc/vc-template-block-10.php:151
+#: inc/vc/vc-template-block-11.php:141 inc/vc/vc-template-block-12.php:173
+#: inc/vc/vc-template-block-2.php:151 inc/vc/vc-template-block-3.php:151
+#: inc/vc/vc-template-block-4.php:151 inc/vc/vc-template-block-5.php:151
+#: inc/vc/vc-template-block-6.php:151 inc/vc/vc-template-block-7.php:108
+#: inc/vc/vc-template-block-8.php:151 inc/vc/vc-template-block-9.php:151
+#: inc/vc/vc-template-wc-block-1.php:152 inc/vc/vc-template-wc-block-2.php:139
+#: inc/vc/vc-template-wc-block-3.php:139
+msgid "Offset:"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:174 inc/vc/vc-template-block-10.php:165
+#: inc/vc/vc-template-block-11.php:155 inc/vc/vc-template-block-12.php:187
+#: inc/vc/vc-template-block-2.php:165 inc/vc/vc-template-block-3.php:165
+#: inc/vc/vc-template-block-4.php:165 inc/vc/vc-template-block-5.php:165
+#: inc/vc/vc-template-block-6.php:165 inc/vc/vc-template-block-7.php:122
+#: inc/vc/vc-template-block-8.php:165 inc/vc/vc-template-block-9.php:165
+msgid "Allow paging:"
+msgstr ""
+
+#: inc/vc/vc-template-block-1.php:305 inc/vc/vc-template-block-10.php:291
+#: inc/vc/vc-template-block-11.php:287 inc/vc/vc-template-block-12.php:307
+#: inc/vc/vc-template-block-2.php:296 inc/vc/vc-template-block-3.php:298
+#: inc/vc/vc-template-block-4.php:297 inc/vc/vc-template-block-5.php:295
+#: inc/vc/vc-template-block-6.php:306 inc/vc/vc-template-block-7.php:253
+#: inc/vc/vc-template-block-8.php:302 inc/vc/vc-template-block-9.php:302
+#: inc/vc/vc-template-block-ads-system.php:84
+#: inc/vc/vc-template-carousel-1.php:169 inc/vc/vc-template-spacer.php:78
+#: inc/vc/vc-template-wc-block-1.php:290 inc/vc/vc-template-wc-block-2.php:267
+#: inc/vc/vc-template-wc-block-3.php:271
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"http://bit.ly/vcomposer\" "
+"target=\"_blank\">Visual Composer</a></strong> plugin to be installed and "
+"activated on your site."
+msgstr ""
+
+#: inc/vc/vc-template-block-10.php:39
+msgid "Block Layout 9"
+msgstr ""
+
+#: inc/vc/vc-template-block-11.php:39
+msgid "Block Layout 10"
+msgstr ""
+
+#: inc/vc/vc-template-block-12.php:39
+msgid "Text Blocks"
+msgstr ""
+
+#: inc/vc/vc-template-block-12.php:76
+msgid "Number of columns:"
+msgstr ""
+
+#: inc/vc/vc-template-block-12.php:93
+msgid "Display posts as:"
+msgstr ""
+
+#: inc/vc/vc-template-block-2.php:39
+msgid "Block Layout 2"
+msgstr ""
+
+#: inc/vc/vc-template-block-3.php:39
+msgid "Block Layout 3"
+msgstr ""
+
+#: inc/vc/vc-template-block-4.php:39
+msgid "Block Layout 4"
+msgstr ""
+
+#: inc/vc/vc-template-block-5.php:39
+msgid "Block Layout 8"
+msgstr ""
+
+#: inc/vc/vc-template-block-6.php:39
+msgid "Block Layout 7"
+msgstr ""
+
+#: inc/vc/vc-template-block-7.php:39
+msgid "Review Block"
+msgstr ""
+
+#: inc/vc/vc-template-block-8.php:39
+msgid "Block Layout 6"
+msgstr ""
+
+#: inc/vc/vc-template-block-9.php:39
+msgid "Block Layout 5"
+msgstr ""
+
+#: inc/vc/vc-template-block-ads-system.php:39
+msgid "Advertisement - Ads System"
+msgstr ""
+
+#: inc/vc/vc-template-block-ads-system.php:51
+msgid "Ad source"
+msgstr ""
+
+#: inc/vc/vc-template-carousel-1.php:48
+msgid "Photo carousel"
+msgstr ""
+
+#: inc/vc/vc-template-carousel-1.php:58
+msgid "Carousel title"
+msgstr ""
+
+#: inc/vc/vc-template-carousel-1.php:60
+msgid ""
+"Enter text which will be used as carousel title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: inc/vc/vc-template-carousel-1.php:64
+msgid "Select images"
+msgstr ""
+
+#: inc/vc/vc-template-carousel-1.php:67
+msgid "Select images from media library."
+msgstr ""
+
+#: inc/vc/vc-template-carousel-1.php:74
+msgid "Yes"
+msgstr ""
+
+#: inc/vc/vc-template-carousel-1.php:75
+msgid "No"
+msgstr ""
+
+#: inc/vc/vc-template-carousel-1.php:77
+msgid "Do you want the carousel to start automatically?"
+msgstr ""
+
+#: inc/vc/vc-template-spacer.php:36
+msgid "Empty Spacer"
+msgstr ""
+
+#: inc/vc/vc-template-spacer.php:37
+msgid "Give elements some space"
+msgstr ""
+
+#: inc/vc/vc-template-spacer.php:49
+msgid "Set spacer height"
+msgstr ""
+
+#: inc/vc/vc-template-wc-block-1.php:48
+msgid "WooCommerce Layout 1"
+msgstr ""
+
+#: inc/vc/vc-template-wc-block-1.php:53 inc/vc/vc-template-wc-block-2.php:53
+#: inc/vc/vc-template-wc-block-3.php:53
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/vc/vc-template-wc-block-1.php:103
+msgid "Section Style:"
+msgstr ""
+
+#: inc/vc/vc-template-wc-block-1.php:116 inc/vc/vc-template-wc-block-2.php:103
+#: inc/vc/vc-template-wc-block-3.php:103
+msgid "Add to Cart Button"
+msgstr ""
+
+#: inc/vc/vc-template-wc-block-2.php:48
+msgid "WooCommerce Layout 2"
+msgstr ""
+
+#: inc/vc/vc-template-wc-block-3.php:48
+msgid "WooCommerce Layout 3"
+msgstr ""
+
+#: tag.php:48
+msgid "Posts tagged with"
+msgstr ""
